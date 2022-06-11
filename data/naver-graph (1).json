@@ -1,0 +1,5542 @@
+{
+ "links": [
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\ud0a4\uc6cc\ub4dc",
+   "value": 10
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uc2e0\ud55c\uce74\ub4dc",
+   "value": 29
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uc18c\ube44",
+   "value": 34
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uc81c\uc2dc",
+   "value": 14
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\ubc1c\ud45c",
+   "value": 8
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uacf5\uac04",
+   "value": 9
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\ud2b8\ub80c\ub4dc",
+   "target": "\uc62c\ud574",
+   "value": 30
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ud50c\ub7ab\ud3fc",
+   "value": 17
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uacbd\uc7c1\ub825",
+   "value": 44
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc0ac\uc5c5",
+   "value": 9
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ub2e8\uc7a5",
+   "value": 11
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ub86f\ub370",
+   "value": 9
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ud589\uc0ac",
+   "value": 9
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ub9ac\ud50c\ub808\uc774",
+   "value": 48
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uac15\ud654",
+   "value": 50
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc2dc\uccad",
+   "value": 3
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 78
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 55
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc9c4\ud589",
+   "value": 9
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ucd5c\uace0",
+   "value": 10
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ud655\ub300",
+   "value": 4
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ud50c\ub808\uc774",
+   "value": 5
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc81c\uc791",
+   "value": 4
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uacbd\ud5d8",
+   "value": 3
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\uc601\uc785",
+   "value": 77
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ucd9c\uc2e0",
+   "value": 12
+  },
+  {
+   "source": "\ucf58\ud150\uce20",
+   "target": "\ub77c\uc774\ud504",
+   "value": 10
+  },
+  {
+   "source": "\ud0a4\uc6cc\ub4dc",
+   "target": "\uc2e0\ud55c\uce74\ub4dc",
+   "value": 7
+  },
+  {
+   "source": "\ud0a4\uc6cc\ub4dc",
+   "target": "\uc18c\ube44",
+   "value": 9
+  },
+  {
+   "source": "\ud0a4\uc6cc\ub4dc",
+   "target": "\ubc1c\ud45c",
+   "value": 3
+  },
+  {
+   "source": "\ud0a4\uc6cc\ub4dc",
+   "target": "\uc62c\ud574",
+   "value": 6
+  },
+  {
+   "source": "\ubc84\uc804",
+   "target": "\uae30\ub150",
+   "value": 5
+  },
+  {
+   "source": "\ubc84\uc804",
+   "target": "\uce74\uce74\uc624",
+   "value": 10
+  },
+  {
+   "source": "\ubc84\uc804",
+   "target": "\uc774\ubca4\ud2b8",
+   "value": 6
+  },
+  {
+   "source": "\ubc84\uc804",
+   "target": "\uc9c4\ud589",
+   "value": 6
+  },
+  {
+   "source": "\ubc84\uc804",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 8
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc0ac\ubd80",
+   "value": 30
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc6b4\ub3d9",
+   "value": 10
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc601\uc0c1",
+   "value": 7
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uacf5\uac1c",
+   "value": 10
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "TV",
+   "value": 3
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc2dc\uc791",
+   "value": 3
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc885\ud569",
+   "value": 4
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc81c\uc791",
+   "value": 6
+  },
+  {
+   "source": "\ube14\ub791",
+   "target": "\uc77c\uccb4",
+   "value": 27
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uc6b4\ub3d9",
+   "value": 5
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uc694\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uace8\ud504",
+   "value": 4
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ub9e4\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ub864\ub7ec",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uce74\uce74\uc624",
+   "value": 14
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uac70\ubc84\ub10c\uc2a4",
+   "value": 14
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ube0c\ub79c\ub4dc",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uae30\uad6c",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ub2ec\uc131",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "FIT",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uc6a9\ud488",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "VX",
+   "value": 4
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ucc38\uc5ec",
+   "value": 12
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\uc778\uae30",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ubcf4\ub77c",
+   "value": 11
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ub300\ud45c",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud3ec\uce20",
+   "target": "\ucd9c\uc2dc",
+   "value": 5
+  },
+  {
+   "source": "\uc870\uc900\ud638",
+   "target": "\uba54\uc774\ud2b8",
+   "value": 10
+  },
+  {
+   "source": "\uc870\uc900\ud638",
+   "target": "\ud638\uc801",
+   "value": 11
+  },
+  {
+   "source": "\uc870\uc900\ud638",
+   "target": "\ubc43\uc0b4",
+   "value": 7
+  },
+  {
+   "source": "\uc870\uc900\ud638",
+   "target": "\ub3cc\uc785",
+   "value": 4
+  },
+  {
+   "source": "\uc870\uc900\ud638",
+   "target": "\uc870\uc900\ud604",
+   "value": 12
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\uacbd\uc7c1\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\uc0ac\uc5c5",
+   "value": 6
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\ub2e8\uc7a5",
+   "value": 11
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\ub9ac\ud50c\ub808\uc774",
+   "value": 4
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 14
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 15
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\uc601\uc785",
+   "value": 12
+  },
+  {
+   "source": "\ud50c\ub7ab\ud3fc",
+   "target": "\ucd9c\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "\uc774\uc720",
+   "target": "\uc0ac\ubd80",
+   "value": 3
+  },
+  {
+   "source": "\uc774\uc720",
+   "target": "\uc77c\uccb4",
+   "value": 3
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\ub9ac\ud50c\ub808\uc774",
+   "value": 35
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\uac15\ud654",
+   "value": 40
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 42
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 31
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\ucd5c\uace0",
+   "value": 4
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\uc601\uc785",
+   "value": 41
+  },
+  {
+   "source": "\uacbd\uc7c1\ub825",
+   "target": "\ucd9c\uc2e0",
+   "value": 3
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\ub2e4\uc774\uc5b4\ud2b8",
+   "value": 6
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uc6b4\ub3d9",
+   "value": 25
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uc694\uac00",
+   "value": 23
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uad50\uc815",
+   "value": 5
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 13
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "10\ubd84",
+   "value": 8
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\ubcf5\uadfc",
+   "value": 5
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uac15\ud654",
+   "value": 5
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\ub3d9\uc791",
+   "value": 5
+  },
+  {
+   "source": "\uc8fc\ub9d0",
+   "target": "\uadfc\ub825",
+   "value": 4
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc6b4\ub3d9",
+   "value": 11
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc601\uc0c1",
+   "value": 7
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uacf5\uac1c",
+   "value": 11
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "TV",
+   "value": 4
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc2dc\uc791",
+   "value": 3
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc885\ud569",
+   "value": 6
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc81c\uc791",
+   "value": 6
+  },
+  {
+   "source": "\uc0ac\ubd80",
+   "target": "\uc77c\uccb4",
+   "value": 37
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\uc6b4\ub3d9",
+   "value": 8
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\uad00\ub9ac",
+   "value": 5
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\uc0ac\uc9c4",
+   "value": 5
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\ubc18\uc804",
+   "value": 9
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\ubcf5\uadfc",
+   "value": 25
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\ubab8\ub9e4",
+   "value": 13
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\uc18c\uc2dd",
+   "value": 11
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\ub77c\ubc15",
+   "value": 39
+  },
+  {
+   "source": "\uc0b0\ub2e4",
+   "target": "\ud654\ubcf4",
+   "value": 9
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\ub2e8\uc7a5",
+   "value": 5
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\uc9c0\uc6d0",
+   "value": 5
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\ub9ac\ud50c\ub808\uc774",
+   "value": 4
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "FIT",
+   "value": 6
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 7
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\uac00\uad6c",
+   "value": 5
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\ud65c\ub3d9",
+   "value": 3
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 6
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\ud655\ub300",
+   "value": 4
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\uc601\uc785",
+   "value": 6
+  },
+  {
+   "source": "\uc0ac\uc5c5",
+   "target": "\uae30\uc220",
+   "value": 4
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc6b4\ub3d9",
+   "value": 10
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc2dc\uc791",
+   "value": 3
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc0c8\ud574",
+   "value": 3
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uae09\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uac10\ub7c9",
+   "value": 3
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\uc624\ud504\ub77c\uc778",
+   "value": 15
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\ud504\ub85c\ubaa8\uc158",
+   "value": 20
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\ud5ec\uc2a4",
+   "value": 16
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\ub3d9\uad6d",
+   "value": 18
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\uc9c4\ud589",
+   "value": 18
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\uc81c\ud488",
+   "value": 17
+  },
+  {
+   "source": "\uba85\uc808",
+   "target": "\uc81c\uc57d",
+   "value": 19
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\ud504\ub85c\ubaa8\uc158",
+   "value": 24
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\ud5ec\uc2a4",
+   "value": 18
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\ub3d9\uad6d",
+   "value": 24
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\uc9c4\ud589",
+   "value": 19
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\uc81c\ud488",
+   "value": 18
+  },
+  {
+   "source": "\uc624\ud504\ub77c\uc778",
+   "target": "\uc81c\uc57d",
+   "value": 24
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\ub86f\ub370",
+   "value": 9
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\ud589\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\ud560\uc778",
+   "value": 12
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\uc6a9\ud488",
+   "value": 3
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\uc9c4\ud589",
+   "value": 5
+  },
+  {
+   "source": "\ucd5c\ub300",
+   "target": "\ub77c\uc774\ud504",
+   "value": 6
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\uc124\ub9de\uc774",
+   "value": 3
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\ud5ec\uc2a4",
+   "value": 23
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\ud560\uc778",
+   "value": 7
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\ub3d9\uad6d",
+   "value": 29
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\uc9c4\ud589",
+   "value": 29
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\uc81c\ud488",
+   "value": 23
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\uc81c\uc57d",
+   "value": 30
+  },
+  {
+   "source": "\ud504\ub85c\ubaa8\uc158",
+   "target": "\uc2e4\uc2dc",
+   "value": 6
+  },
+  {
+   "source": "\uc804\ubb38",
+   "target": "\uc8fc\ud0dd",
+   "value": 4
+  },
+  {
+   "source": "\uc804\ubb38",
+   "target": "\uc804\uc6d0",
+   "value": 4
+  },
+  {
+   "source": "\uc804\ubb38",
+   "target": "\ud2b8\ub9ac\uc624",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc774\uc815\ud604",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ud6a8\uacfc",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uad00\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uac74\uac15",
+   "value": 10
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc774\ud6c4",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "19",
+   "value": 8
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uad50\uc815",
+   "value": 7
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ud544\uc694",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uacf5\uac1c",
+   "value": 9
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "TV",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc0ac\uc9c4",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uce74\uce74\uc624",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc2dc\uc791",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc218\uc785",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 7
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uae30\uad6c",
+   "value": 10
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "10\ubd84",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ubcf5\uadfc",
+   "value": 16
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uac15\ud654",
+   "value": 7
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ubab8\ub9e4",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ub0a8\uc131",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc2dc\uccad",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc0dd\ud65c",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ubaa8\uc9d1",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uccb4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc0c8\ud574",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc7a5\uc560\uc778",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uae09\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uadfc\uc721",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ub3cc\ud30c",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc2dc\ub300",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ub204\uc801",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "VX",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ub77c\ubc15",
+   "value": 8
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "30\ub300",
+   "value": 7
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc5b4\uae68",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uac74\uc218",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc2a4\ud0c0",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc6b4\uc601",
+   "value": 5
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ud5c8\ub9ac",
+   "value": 11
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc778\uc99d",
+   "value": 4
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ucd9c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ube44\ub300",
+   "value": 9
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 14
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uc77c\uccb4",
+   "value": 10
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\ube44\uacb0",
+   "value": 3
+  },
+  {
+   "source": "\uc6b4\ub3d9",
+   "target": "\uadfc\ub825",
+   "value": 13
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\ud544\ub77c\ud14c\uc2a4",
+   "value": 8
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\uadfc\ud669",
+   "value": 3
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\ubc30\uc6b0",
+   "value": 3
+  },
+  {
+   "source": "\uc124\ub9de\uc774",
+   "target": "\ubb38\ud654\uc0dd\ud65c",
+   "value": 4
+  },
+  {
+   "source": "\uae08\uc735",
+   "target": "\uc0bc\uc131\uce74\ub4dc",
+   "value": 3
+  },
+  {
+   "source": "\uae08\uc735",
+   "target": "\uae30\uc5c5",
+   "value": 3
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\ud589\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\uce74\uce74\uc624",
+   "value": 5
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\ud560\uc778",
+   "value": 5
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\uc774\ubca4\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\uc9c4\ud589",
+   "value": 10
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 5
+  },
+  {
+   "source": "\uae30\ub150",
+   "target": "\ucd9c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ubb38\ud654\uc0dd\ud65c",
+   "target": "\uc5f0\ud734",
+   "value": 8
+  },
+  {
+   "source": "\ubb38\ud654\uc0dd\ud65c",
+   "target": "\uc6b4\uc601",
+   "value": 3
+  },
+  {
+   "source": "\uad6c\ubd80",
+   "target": "\uccb4\uc721",
+   "value": 5
+  },
+  {
+   "source": "\uad6c\ubd80",
+   "target": "\ub9c8\ub140",
+   "value": 12
+  },
+  {
+   "source": "\uad6c\ubd80",
+   "target": "\uc0dd\ud65c",
+   "value": 5
+  },
+  {
+   "source": "\uad6c\ubd80",
+   "target": "\uccb4\ub825",
+   "value": 12
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\ubcf5\uadfc",
+   "value": 6
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\ubab8\ub9e4",
+   "value": 6
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 3
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\uc18c\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\ub77c\ubc15",
+   "value": 5
+  },
+  {
+   "source": "\uad00\ub9ac",
+   "target": "\ube44\uacb0",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\ub9e4\ud2b8",
+   "value": 7
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc790\uc138",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 10
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\ube0c\ub79c\ub4dc",
+   "value": 6
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "10\ubd84",
+   "value": 6
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\ub2ec\uc131",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc778\uae30",
+   "value": 5
+  },
+  {
+   "source": "\uba54\uc774\ud2b8",
+   "target": "\ud638\uc801",
+   "value": 23
+  },
+  {
+   "source": "\uba54\uc774\ud2b8",
+   "target": "\ubc43\uc0b4",
+   "value": 5
+  },
+  {
+   "source": "\uba54\uc774\ud2b8",
+   "target": "\ub3cc\uc785",
+   "value": 4
+  },
+  {
+   "source": "\uba54\uc774\ud2b8",
+   "target": "\uc885\ud569",
+   "value": 5
+  },
+  {
+   "source": "\uba54\uc774\ud2b8",
+   "target": "\uc870\uc900\ud604",
+   "value": 9
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ub9b0\uc9c0",
+   "value": 13
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uc2a4\ucffc\ud2b8",
+   "value": 13
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ubdf0\ud2f0",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "19",
+   "value": 11
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uce74\uce74\uc624",
+   "value": 13
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uc2dc\uc791",
+   "value": 7
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ud504\ub85c\uc81d\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ub0a8\uc131",
+   "value": 10
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uac1c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 4
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uadfc\uc721",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 9
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "VX",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "30\ub300",
+   "value": 14
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ud5c8\ub9ac",
+   "value": 14
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 17
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2a4\ucffc\ud2b8",
+   "value": 64
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uce74\uce74\uc624",
+   "value": 61
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2dc\uc791",
+   "value": 31
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ud504\ub85c\uc81d\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ub3cc\uc785",
+   "value": 5
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uac1c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ub300\uc0c1",
+   "value": 7
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc9c4\ud589",
+   "value": 5
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 47
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "VX",
+   "value": 22
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc0ac\uc804",
+   "value": 23
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2e0\uccad",
+   "value": 23
+  },
+  {
+   "source": "\uc601\uc0c1",
+   "target": "\uc81c\uc791",
+   "value": 8
+  },
+  {
+   "source": "\uc601\uc0c1",
+   "target": "\uc5b4\uae68",
+   "value": 3
+  },
+  {
+   "source": "\uc601\uc0c1",
+   "target": "\uc77c\uccb4",
+   "value": 6
+  },
+  {
+   "source": "\ub2e8\uc7a5",
+   "target": "\ub9ac\ud50c\ub808\uc774",
+   "value": 3
+  },
+  {
+   "source": "\ub2e8\uc7a5",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 10
+  },
+  {
+   "source": "\ub2e8\uc7a5",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 8
+  },
+  {
+   "source": "\ub2e8\uc7a5",
+   "target": "\uc601\uc785",
+   "value": 8
+  },
+  {
+   "source": "\ub2e8\uc7a5",
+   "target": "\ucd9c\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uad50\uc721",
+   "value": 3
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uc774\ubca4\ud2b8",
+   "value": 19
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uc0bc\uc131\uce74\ub4dc",
+   "value": 25
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uc9c4\ud589",
+   "value": 19
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\ub79c\ub4dc",
+   "value": 18
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\ucde8\ud5a5",
+   "value": 21
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uc138\ub300",
+   "value": 3
+  },
+  {
+   "source": "\uba54\ud0c0\ubc84\uc2a4",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "\uce74\uce74\uc624",
+   "value": 10
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "\ud68c\uc6d0\uad8c",
+   "value": 5
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "FIT",
+   "value": 3
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "\ubc1c\ud589",
+   "value": 4
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "VX",
+   "value": 5
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "\ubcf4\ub77c",
+   "value": 4
+  },
+  {
+   "source": "\uace8\ud504",
+   "target": "\ub300\ud45c",
+   "value": 4
+  },
+  {
+   "source": "\ud638\uc801",
+   "target": "\ubc43\uc0b4",
+   "value": 5
+  },
+  {
+   "source": "\ud638\uc801",
+   "target": "\ub3cc\uc785",
+   "value": 4
+  },
+  {
+   "source": "\ud638\uc801",
+   "target": "\uc885\ud569",
+   "value": 5
+  },
+  {
+   "source": "\ud638\uc801",
+   "target": "\uc870\uc900\ud604",
+   "value": 10
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uce74\uce74\uc624",
+   "value": 61
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uc2dc\uc791",
+   "value": 31
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ud2b8\ub808\uc774\ub2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ud504\ub85c\uc81d\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ub3cc\uc785",
+   "value": 5
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uac1c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ub300\uc0c1",
+   "value": 7
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uc9c4\ud589",
+   "value": 5
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 47
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "VX",
+   "value": 22
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uc0ac\uc804",
+   "value": 23
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\uc2e0\uccad",
+   "value": 23
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\ub77c\uc774\ube0c",
+   "value": 3
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\ud2f0\ubaac",
+   "value": 4
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\uac00\uad6c",
+   "value": 7
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\ud65c\ub3d9",
+   "value": 3
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\uc9c4\ud589",
+   "value": 4
+  },
+  {
+   "source": "\uc9c0\uc6d0",
+   "target": "\uc13c\ud130",
+   "value": 3
+  },
+  {
+   "source": "\ub9e4\ud2b8",
+   "target": "\ube0c\ub79c\ub4dc",
+   "value": 7
+  },
+  {
+   "source": "\ub9e4\ud2b8",
+   "target": "\ub2ec\uc131",
+   "value": 3
+  },
+  {
+   "source": "\ub9e4\ud2b8",
+   "target": "\uc778\uae30",
+   "value": 4
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\ud589\uc0ac",
+   "value": 14
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\ud2b8\ub808\uc774\ub2dd",
+   "value": 6
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\ud560\uc778",
+   "value": 12
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\uc6a9\ud488",
+   "value": 7
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\uc9c4\ud589",
+   "value": 13
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\ub77c\uc774\ud504",
+   "value": 19
+  },
+  {
+   "source": "\ub86f\ub370",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "19",
+   "value": 7
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uc6d4\ud3c9\uade0",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\ub0a8\uc131",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uc2dc\uccad",
+   "value": 6
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 5
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uae09\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "30\ub300",
+   "value": 5
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uac74\uc218",
+   "value": 5
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uc99d\uac00",
+   "value": 5
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 11
+  },
+  {
+   "source": "\uc774\ud6c4",
+   "target": "\uac1c\ud3b8",
+   "value": 6
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uaddc\uaca9",
+   "value": 11
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc131\uc7a5",
+   "value": 9
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\ub9e4\ucd9c",
+   "value": 16
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc2a4\ub0b5",
+   "value": 13
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 20
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uac04\uc2dd",
+   "value": 8
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc778\uae30",
+   "value": 15
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc99d\uac00",
+   "value": 7
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc9c0\ud37c",
+   "value": 13
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc81c\ud488",
+   "value": 17
+  },
+  {
+   "source": "\uc6a9\ub7c9",
+   "target": "\uc218\uc694",
+   "value": 7
+  },
+  {
+   "source": "\uc8fc\ud0dd",
+   "target": "\uc804\uc6d0",
+   "value": 11
+  },
+  {
+   "source": "\uc8fc\ud0dd",
+   "target": "\ud2b8\ub9ac\uc624",
+   "value": 11
+  },
+  {
+   "source": "\uc8fc\ud0dd",
+   "target": "\uccad\ub144",
+   "value": 4
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\uc628\ub77c\uc778",
+   "value": 13
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\uc138\ud2b8",
+   "value": 13
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\uc120\ubb3c",
+   "value": 13
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\uc0c8\ud574",
+   "value": 6
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 13
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\ud558\uc790",
+   "value": 5
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\ud55c\uc815\ud310",
+   "value": 12
+  },
+  {
+   "source": "\uc804\uc6a9",
+   "target": "\ucd9c\uc2dc",
+   "value": 12
+  },
+  {
+   "source": "\ubc43\uc0b4",
+   "target": "\ub3cc\uc785",
+   "value": 3
+  },
+  {
+   "source": "\ubc43\uc0b4",
+   "target": "\uc870\uc900\ud604",
+   "value": 6
+  },
+  {
+   "source": "19",
+   "target": "\ub0a8\uc131",
+   "value": 14
+  },
+  {
+   "source": "19",
+   "target": "\ube44\ub9cc",
+   "value": 4
+  },
+  {
+   "source": "19",
+   "target": "30\ub300",
+   "value": 16
+  },
+  {
+   "source": "19",
+   "target": "\ud5c8\ub9ac",
+   "value": 13
+  },
+  {
+   "source": "19",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 29
+  },
+  {
+   "source": "\uad50\uc815",
+   "target": "\uc790\uc138",
+   "value": 9
+  },
+  {
+   "source": "\uad50\uc815",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 3
+  },
+  {
+   "source": "\uad50\uc815",
+   "target": "\ud5c8\ub9ac",
+   "value": 5
+  },
+  {
+   "source": "\uc5f0\ud734",
+   "target": "\uc6b4\uc601",
+   "value": 3
+  },
+  {
+   "source": "\ucea0\ud504",
+   "target": "\uc800\uaca9",
+   "value": 12
+  },
+  {
+   "source": "\ucea0\ud504",
+   "target": "\ub9de\ucda4",
+   "value": 12
+  },
+  {
+   "source": "\ucea0\ud504",
+   "target": "\ubcf5\uc9c0",
+   "value": 15
+  },
+  {
+   "source": "\ucea0\ud504",
+   "target": "\ucde8\ud5a5",
+   "value": 13
+  },
+  {
+   "source": "\ucea0\ud504",
+   "target": "\uc138\ub300",
+   "value": 16
+  },
+  {
+   "source": "\ubb38\ud654",
+   "target": "\ucde8\ubbf8",
+   "value": 6
+  },
+  {
+   "source": "\ubb38\ud654",
+   "target": "\ud074\ub798\uc2a4",
+   "value": 6
+  },
+  {
+   "source": "\ubb38\ud654",
+   "target": "\uccad\ub144",
+   "value": 6
+  },
+  {
+   "source": "\uae40\uc815\uc784",
+   "target": "\ubcf5\uadfc",
+   "value": 8
+  },
+  {
+   "source": "\uba39\ubc29",
+   "target": "\uc774\ud615\ud0dd",
+   "value": 11
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc131\uc7a5",
+   "value": 6
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\ub9e4\ucd9c",
+   "value": 9
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc2a4\ub0b5",
+   "value": 8
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 11
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uac04\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc778\uae30",
+   "value": 9
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc9c0\ud37c",
+   "value": 8
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc81c\ud488",
+   "value": 10
+  },
+  {
+   "source": "\uaddc\uaca9",
+   "target": "\uc218\uc694",
+   "value": 3
+  },
+  {
+   "source": "\uacf5\uac1c",
+   "target": "\ubcf5\uadfc",
+   "value": 7
+  },
+  {
+   "source": "\uacf5\uac1c",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 3
+  },
+  {
+   "source": "\uacf5\uac1c",
+   "target": "\uc77c\uccb4",
+   "value": 10
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uc774\uc6a9",
+   "value": 11
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uc2dc\uccad",
+   "value": 6
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\ud2b8\ub808\uc774\ub108",
+   "value": 36
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 22
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uc9c4\ud589",
+   "value": 10
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uae09\uc99d",
+   "value": 14
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uacbd\ud5d8",
+   "value": 11
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\ucc38\uc5ec",
+   "value": 18
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uc624\ub514\uc158",
+   "value": 17
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\ud601\uc2e0",
+   "value": 9
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uacf5\uc2dd",
+   "value": 28
+  },
+  {
+   "source": "\uace0\uac1d",
+   "target": "\uc120\ubc1c",
+   "value": 32
+  },
+  {
+   "source": "\uad50\uc721",
+   "target": "\uc0c1\ubc18\uae30",
+   "value": 14
+  },
+  {
+   "source": "\uad50\uc721",
+   "target": "\ubaa8\uc9d1",
+   "value": 15
+  },
+  {
+   "source": "\uad50\uc721",
+   "target": "\ud3c9\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\uad50\uc721",
+   "target": "\ub098\uc8fc\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\uad50\uc721",
+   "target": "\uac15\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\ud589\uc0ac",
+   "target": "\ud560\uc778",
+   "value": 10
+  },
+  {
+   "source": "\ud589\uc0ac",
+   "target": "\uc9c4\ud589",
+   "value": 13
+  },
+  {
+   "source": "\ud589\uc0ac",
+   "target": "\ub77c\uc774\ud504",
+   "value": 12
+  },
+  {
+   "source": "\ud589\uc0ac",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\uce74\uce74\uc624",
+   "value": 12
+  },
+  {
+   "source": "TV",
+   "target": "\ub0a8\ub140",
+   "value": 12
+  },
+  {
+   "source": "TV",
+   "target": "\uc0dd\uc874",
+   "value": 12
+  },
+  {
+   "source": "TV",
+   "target": "\ub9cc\ub2a5",
+   "value": 8
+  },
+  {
+   "source": "TV",
+   "target": "\uc81c\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\ud50c\ub808\uc774",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\uc138\uc0c1",
+   "value": 11
+  },
+  {
+   "source": "TV",
+   "target": "\uacf5\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\ucd9c\uc5f0",
+   "value": 12
+  },
+  {
+   "source": "TV",
+   "target": "\uc77c\uccb4",
+   "value": 4
+  },
+  {
+   "source": "\uc2e0\ud55c\uce74\ub4dc",
+   "target": "\uc18c\ube44",
+   "value": 32
+  },
+  {
+   "source": "\uc2e0\ud55c\uce74\ub4dc",
+   "target": "\uc81c\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\uc2e0\ud55c\uce74\ub4dc",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\uc2e0\ud55c\uce74\ub4dc",
+   "target": "\uc62c\ud574",
+   "value": 24
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uce74\uce74\uc624",
+   "value": 3
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ub3d9\uad6d",
+   "value": 23
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ud2b8\ub808\uc774\ub108",
+   "value": 3
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uc9c4\ud589",
+   "value": 17
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "30\ub300",
+   "value": 3
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uc81c\ud488",
+   "value": 22
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uc81c\uc57d",
+   "value": 23
+  },
+  {
+   "source": "\uc0c1\ubc18\uae30",
+   "target": "\ubaa8\uc9d1",
+   "value": 14
+  },
+  {
+   "source": "\uc0c1\ubc18\uae30",
+   "target": "\ud3c9\uc0dd",
+   "value": 14
+  },
+  {
+   "source": "\uc0c1\ubc18\uae30",
+   "target": "\ub098\uc8fc\uc2dc",
+   "value": 14
+  },
+  {
+   "source": "\uc0c1\ubc18\uae30",
+   "target": "\uac15\uc0dd",
+   "value": 14
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\uc2dc\uccad",
+   "value": 19
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 8
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\uae09\uc99d",
+   "value": 5
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\uac74\uc218",
+   "value": 17
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\uc99d\uac00",
+   "value": 12
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\ucd9c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uc6d4\ud3c9\uade0",
+   "target": "\uac1c\ud3b8",
+   "value": 10
+  },
+  {
+   "source": "\uc0ac\uc9c4",
+   "target": "\ubcf5\uadfc",
+   "value": 3
+  },
+  {
+   "source": "\uc0ac\uc9c4",
+   "target": "\ubab8\ub9e4",
+   "value": 5
+  },
+  {
+   "source": "\uc0ac\uc9c4",
+   "target": "\ub77c\ubc15",
+   "value": 5
+  },
+  {
+   "source": "\uc790\uc138",
+   "target": "\ud2b8\ub808\uc774\ub2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc790\uc138",
+   "target": "\ud5c8\ub9ac",
+   "value": 5
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc2dc\uc791",
+   "value": 30
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uac70\ubc84\ub10c\uc2a4",
+   "value": 28
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ud504\ub85c\uc81d\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ub3cc\uc785",
+   "value": 5
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ub0a8\ub140",
+   "value": 12
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uac1c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc0dd\uc874",
+   "value": 12
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ud68c\uc6d0\uad8c",
+   "value": 16
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ub9cc\ub2a5",
+   "value": 8
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ub300\uc0c1",
+   "value": 6
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc774\ubca4\ud2b8",
+   "value": 7
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc9c4\ud589",
+   "value": 11
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ubc1c\ud589",
+   "value": 16
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 56
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "VX",
+   "value": 45
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ucc38\uc5ec",
+   "value": 28
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc0ac\uc804",
+   "value": 22
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ubcf4\ub77c",
+   "value": 27
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc138\uc0c1",
+   "value": 11
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uacf5\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 12
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\ucd9c\uc5f0",
+   "value": 12
+  },
+  {
+   "source": "\uce74\uce74\uc624",
+   "target": "\uc2e0\uccad",
+   "value": 22
+  },
+  {
+   "source": "\uc800\uaca9",
+   "target": "\ub9de\ucda4",
+   "value": 11
+  },
+  {
+   "source": "\uc800\uaca9",
+   "target": "\ubcf5\uc9c0",
+   "value": 11
+  },
+  {
+   "source": "\uc800\uaca9",
+   "target": "\ucde8\ud5a5",
+   "value": 14
+  },
+  {
+   "source": "\uc800\uaca9",
+   "target": "\uc138\ub300",
+   "value": 14
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\ud504\ub85c\uc81d\ud2b8",
+   "value": 5
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\ub300\uc0c1",
+   "value": 4
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 26
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "VX",
+   "value": 5
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\uc0ac\uc804",
+   "value": 9
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\uc2e0\uccad",
+   "value": 9
+  },
+  {
+   "source": "\uc2dc\uc791",
+   "target": "\uc77c\uccb4",
+   "value": 3
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\ubcf5\uadfc",
+   "value": 5
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\ubab8\ub9e4",
+   "value": 8
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\uc18c\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\uc18c\uc5f0",
+   "value": 4
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\ub77c\ubc15",
+   "value": 9
+  },
+  {
+   "source": "\ubc18\uc804",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub2dd",
+   "target": "\ud560\uc778",
+   "value": 4
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub2dd",
+   "target": "\uae30\uad6c",
+   "value": 3
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub2dd",
+   "target": "\uc6a9\ud488",
+   "value": 6
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub2dd",
+   "target": "\ucd9c\uc2dc",
+   "value": 5
+  },
+  {
+   "source": "\uccb4\uc721",
+   "target": "\ub9c8\ub140",
+   "value": 5
+  },
+  {
+   "source": "\uccb4\uc721",
+   "target": "\uc0dd\ud65c",
+   "value": 8
+  },
+  {
+   "source": "\uccb4\uc721",
+   "target": "\uccb4\ub825",
+   "value": 5
+  },
+  {
+   "source": "\uccb4\uc721",
+   "target": "\uc7a5\uc560\uc778",
+   "value": 3
+  },
+  {
+   "source": "\uccb4\uc721",
+   "target": "\uc218\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\uc218\uc785",
+   "target": "\uae30\uad6c",
+   "value": 4
+  },
+  {
+   "source": "\uc218\uc785",
+   "target": "\uc0dd\ud65c",
+   "value": 6
+  },
+  {
+   "source": "\uc218\uc785",
+   "target": "\uae09\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\uc218\uc785",
+   "target": "\uc99d\uac00",
+   "value": 6
+  },
+  {
+   "source": "\uc218\uc785",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 7
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\uc2dc\uccad",
+   "value": 6
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 14
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\uae09\uc99d",
+   "value": 18
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\uacbd\ud5d8",
+   "value": 9
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\uac74\uc218",
+   "value": 3
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\ud601\uc2e0",
+   "value": 7
+  },
+  {
+   "source": "\uc774\uc6a9",
+   "target": "\uc99d\uac00",
+   "value": 4
+  },
+  {
+   "source": "\ub9c8\ub140",
+   "target": "\uc0dd\ud65c",
+   "value": 5
+  },
+  {
+   "source": "\ub9c8\ub140",
+   "target": "\uccb4\ub825",
+   "value": 12
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "\ud68c\uc6d0\uad8c",
+   "value": 6
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "\ubc1c\ud589",
+   "value": 6
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "VX",
+   "value": 8
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "\ucc38\uc5ec",
+   "value": 25
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "\ubcf4\ub77c",
+   "value": 20
+  },
+  {
+   "source": "\uac70\ubc84\ub10c\uc2a4",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 5
+  },
+  {
+   "source": "\ud560\uc778",
+   "target": "\uc774\ubca4\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\ud560\uc778",
+   "target": "\uc6a9\ud488",
+   "value": 5
+  },
+  {
+   "source": "\ud560\uc778",
+   "target": "\uc9c4\ud589",
+   "value": 14
+  },
+  {
+   "source": "\ud560\uc778",
+   "target": "\ub77c\uc774\ud504",
+   "value": 6
+  },
+  {
+   "source": "\ud560\uc778",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ub808\uae45\uc2a4",
+   "target": "\uc548\ub2e4",
+   "value": 4
+  },
+  {
+   "source": "\ub808\uae45\uc2a4",
+   "target": "\ub77c\uc778",
+   "value": 4
+  },
+  {
+   "source": "\ub808\uae45\uc2a4",
+   "target": "\ucd9c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ube0c\ub79c\ub4dc",
+   "target": "\ub2ec\uc131",
+   "value": 3
+  },
+  {
+   "source": "\ube0c\ub79c\ub4dc",
+   "target": "\uc778\uae30",
+   "value": 4
+  },
+  {
+   "source": "\ube0c\ub79c\ub4dc",
+   "target": "\ucd9c\uc2dc",
+   "value": 5
+  },
+  {
+   "source": "\ub9ac\ud50c\ub808\uc774",
+   "target": "\uac15\ud654",
+   "value": 36
+  },
+  {
+   "source": "\ub9ac\ud50c\ub808\uc774",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 58
+  },
+  {
+   "source": "\ub9ac\ud50c\ub808\uc774",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 43
+  },
+  {
+   "source": "\ub9ac\ud50c\ub808\uc774",
+   "target": "\uc601\uc785",
+   "value": 57
+  },
+  {
+   "source": "\uae30\uad6c",
+   "target": "\uae09\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\uae30\uad6c",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uae30\uad6c",
+   "target": "\ucd9c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uae30\uad6c",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 4
+  },
+  {
+   "source": "\uc18c\ube44",
+   "target": "\uc81c\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\uc18c\ube44",
+   "target": "\uc77c\uc0c1",
+   "value": 6
+  },
+  {
+   "source": "\uc18c\ube44",
+   "target": "\uc62c\ud574",
+   "value": 31
+  },
+  {
+   "source": "\ubd84\uc591",
+   "target": "\uac1c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uc81c\uc2dc",
+   "target": "\uc62c\ud574",
+   "value": 11
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\ud2f0\ubaac",
+   "value": 10
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\uc9c4\ud589",
+   "value": 8
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\ub9c8\ucf13",
+   "value": 8
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\ud2f1\ud1a1",
+   "value": 4
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ubab8\ub9e4",
+   "value": 12
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 5
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc18c\uc2dd",
+   "value": 5
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uadfc\uc721",
+   "value": 3
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ub77c\ubc15",
+   "value": 25
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ud654\ubcf4",
+   "value": 6
+  },
+  {
+   "source": "\ub3d9\uad6d",
+   "target": "\uc9c4\ud589",
+   "value": 22
+  },
+  {
+   "source": "\ub3d9\uad6d",
+   "target": "\uc81c\ud488",
+   "value": 22
+  },
+  {
+   "source": "\ub3d9\uad6d",
+   "target": "\uc81c\uc57d",
+   "value": 30
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uc774\ub355\uc7ac",
+   "value": 47
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 35
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uc13c\ud130",
+   "value": 3
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\ucd5c\uace0",
+   "value": 5
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uc601\uc785",
+   "value": 47
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\ucd9c\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uadfc\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\uc774\uc9c0\ud604",
+   "value": 3
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\uc18c\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\ub77c\ubc15",
+   "value": 13
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\ud654\ubcf4",
+   "value": 4
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\uac10\ub7c9",
+   "value": 3
+  },
+  {
+   "source": "\ubab8\ub9e4",
+   "target": "\ube44\uacb0",
+   "value": 8
+  },
+  {
+   "source": "\ud2f0\ubaac",
+   "target": "\uc9c4\ud589",
+   "value": 6
+  },
+  {
+   "source": "\ud2f0\ubaac",
+   "target": "\ub9c8\ucf13",
+   "value": 8
+  },
+  {
+   "source": "\ud2f0\ubaac",
+   "target": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "value": 4
+  },
+  {
+   "source": "\ud2f0\ubaac",
+   "target": "\ud2f1\ud1a1",
+   "value": 8
+  },
+  {
+   "source": "\ud504\ub85c\uc81d\ud2b8",
+   "target": "\uac1c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ud504\ub85c\uc81d\ud2b8",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 7
+  },
+  {
+   "source": "\ud504\ub85c\uc81d\ud2b8",
+   "target": "VX",
+   "value": 3
+  },
+  {
+   "source": "\ub2ec\uc131",
+   "target": "\uc0c8\ud574",
+   "value": 3
+  },
+  {
+   "source": "\ub2ec\uc131",
+   "target": "\uc778\uae30",
+   "value": 3
+  },
+  {
+   "source": "\ub3cc\uc785",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 5
+  },
+  {
+   "source": "\ub3cc\uc785",
+   "target": "VX",
+   "value": 3
+  },
+  {
+   "source": "\ub3cc\uc785",
+   "target": "\uc870\uc900\ud604",
+   "value": 4
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uc138\ud2b8",
+   "value": 15
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uc120\ubb3c",
+   "value": 15
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uc0c8\ud574",
+   "value": 8
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uc548\ub2e4",
+   "value": 6
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 15
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\ud558\uc790",
+   "value": 7
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\ud55c\uc815\ud310",
+   "value": 13
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\uacf5\uc2dd",
+   "value": 4
+  },
+  {
+   "source": "\uc628\ub77c\uc778",
+   "target": "\ucd9c\uc2dc",
+   "value": 14
+  },
+  {
+   "source": "\uc720\ud1b5",
+   "target": "\uc774\uc288",
+   "value": 4
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\uc0dd\uc874",
+   "value": 15
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\ub9cc\ub2a5",
+   "value": 10
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\uc138\uc0c1",
+   "value": 14
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\uacf5\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\ub0a8\ub140",
+   "target": "\ucd9c\uc5f0",
+   "value": 15
+  },
+  {
+   "source": "\ub0a8\uc131",
+   "target": "\ube44\ub9cc",
+   "value": 5
+  },
+  {
+   "source": "\ub0a8\uc131",
+   "target": "30\ub300",
+   "value": 15
+  },
+  {
+   "source": "\ub0a8\uc131",
+   "target": "\ud5c8\ub9ac",
+   "value": 12
+  },
+  {
+   "source": "\ub0a8\uc131",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 14
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\ub9e4\ucd9c",
+   "value": 14
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc2a4\ub0b5",
+   "value": 12
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 13
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uac04\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc778\uae30",
+   "value": 8
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc9c0\ud37c",
+   "value": 12
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc81c\ud488",
+   "value": 8
+  },
+  {
+   "source": "\uc131\uc7a5",
+   "target": "\uc218\uc694",
+   "value": 3
+  },
+  {
+   "source": "\uac1c\uc2dc",
+   "target": "VX",
+   "value": 4
+  },
+  {
+   "source": "\uc0dd\uc874",
+   "target": "\ub9cc\ub2a5",
+   "value": 10
+  },
+  {
+   "source": "\uc0dd\uc874",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uc0dd\uc874",
+   "target": "\uc138\uc0c1",
+   "value": 14
+  },
+  {
+   "source": "\uc0dd\uc874",
+   "target": "\uacf5\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc0dd\uc874",
+   "target": "\ucd9c\uc5f0",
+   "value": 15
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 24
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\uae09\uc99d",
+   "value": 16
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\ub3cc\ud30c",
+   "value": 11
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\ub204\uc801",
+   "value": 12
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\uac74\uc218",
+   "value": 37
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\uc99d\uac00",
+   "value": 17
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\ucd9c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uc2dc\uccad",
+   "target": "\uac1c\ud3b8",
+   "value": 18
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc2a4\ub0b5",
+   "value": 18
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc6a9\ud488",
+   "value": 3
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc548\ub2e4",
+   "value": 5
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 21
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uac04\uc2dd",
+   "value": 5
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc778\uae30",
+   "value": 13
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc99d\uac00",
+   "value": 6
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc9c0\ud37c",
+   "value": 18
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc81c\ud488",
+   "value": 13
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\ubd84\uae30",
+   "value": 6
+  },
+  {
+   "source": "\ub9e4\ucd9c",
+   "target": "\uc218\uc694",
+   "value": 4
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\uc120\ubb3c",
+   "value": 46
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\uc0c8\ud574",
+   "value": 14
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ud654\uc774\ud2b8\ub370\uc774",
+   "value": 16
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "value": 10
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 46
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ud558\uc790",
+   "value": 13
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ud55c\uc815\ud310",
+   "value": 30
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "value": 10
+  },
+  {
+   "source": "\uc138\ud2b8",
+   "target": "\ucd9c\uc2dc",
+   "value": 42
+  },
+  {
+   "source": "\ud68c\uc6d0\uad8c",
+   "target": "\ubc1c\ud589",
+   "value": 16
+  },
+  {
+   "source": "\ud68c\uc6d0\uad8c",
+   "target": "VX",
+   "value": 6
+  },
+  {
+   "source": "\ud68c\uc6d0\uad8c",
+   "target": "\ucc38\uc5ec",
+   "value": 9
+  },
+  {
+   "source": "\ud68c\uc6d0\uad8c",
+   "target": "\ubcf4\ub77c",
+   "value": 10
+  },
+  {
+   "source": "\ud68c\uc6d0\uad8c",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 11
+  },
+  {
+   "source": "\ub9cc\ub2a5",
+   "target": "\ub9e4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ub9cc\ub2a5",
+   "target": "\uc138\uc0c1",
+   "value": 10
+  },
+  {
+   "source": "\ub9cc\ub2a5",
+   "target": "\ucd9c\uc5f0",
+   "value": 10
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\uc0c8\ud574",
+   "value": 15
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ud654\uc774\ud2b8\ub370\uc774",
+   "value": 16
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "value": 12
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 49
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ud558\uc790",
+   "value": 14
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ud55c\uc815\ud310",
+   "value": 32
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "value": 10
+  },
+  {
+   "source": "\uc120\ubb3c",
+   "target": "\ucd9c\uc2dc",
+   "value": 41
+  },
+  {
+   "source": "FIT",
+   "target": "\ud655\ub300",
+   "value": 3
+  },
+  {
+   "source": "FIT",
+   "target": "\ub300\ud45c",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ub355\uc7ac",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 56
+  },
+  {
+   "source": "\uc774\ub355\uc7ac",
+   "target": "\ucd5c\uace0",
+   "value": 9
+  },
+  {
+   "source": "\uc774\ub355\uc7ac",
+   "target": "\uc601\uc785",
+   "value": 85
+  },
+  {
+   "source": "\uc774\ub355\uc7ac",
+   "target": "\ucd9c\uc2e0",
+   "value": 10
+  },
+  {
+   "source": "\ub300\uc0c1",
+   "target": "\uc0ac\uc804",
+   "value": 6
+  },
+  {
+   "source": "\ub300\uc0c1",
+   "target": "\uc2e0\uccad",
+   "value": 6
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\uccb4\ub825",
+   "value": 5
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\uc7a5\uc560\uc778",
+   "value": 3
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\uc18c\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\uc218\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\uc99d\uac00",
+   "value": 5
+  },
+  {
+   "source": "\uc0dd\ud65c",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 5
+  },
+  {
+   "source": "\uc81c\ud2b8",
+   "target": "\ud50c\ub808\uc774",
+   "value": 11
+  },
+  {
+   "source": "\uc81c\ud2b8",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "\uc81c\ud2b8",
+   "target": "\ucd9c\uc2dc",
+   "value": 5
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\uccb4\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\uc13c\ud130",
+   "value": 4
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\uc778\uc99d",
+   "value": 3
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\ube44\ub300",
+   "value": 3
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\ud3c9\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\ub098\uc8fc\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\ubaa8\uc9d1",
+   "target": "\uac15\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "value": 21
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uc9c4\ud589",
+   "value": 9
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uac1c\ucd5c",
+   "value": 4
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\ucc38\uc5ec",
+   "value": 18
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uc624\ub514\uc158",
+   "value": 24
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uacf5\uc2dd",
+   "value": 32
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\ube44\ub300",
+   "value": 3
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uc120\ubc1c",
+   "value": 41
+  },
+  {
+   "source": "\uc804\uc6d0",
+   "target": "\ud2b8\ub9ac\uc624",
+   "value": 9
+  },
+  {
+   "source": "\uccb4\ub825",
+   "target": "\uc13c\ud130",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\ub825",
+   "target": "\uc778\uc99d",
+   "value": 4
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\uc0bc\uc131\uce74\ub4dc",
+   "value": 21
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\uc9c4\ud589",
+   "value": 28
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\ub79c\ub4dc",
+   "value": 16
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 6
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\ucde8\ud5a5",
+   "value": 19
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\uc138\ub300",
+   "value": 3
+  },
+  {
+   "source": "\uc774\ubca4\ud2b8",
+   "target": "\uc2e4\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uc0bc\uc131\uce74\ub4dc",
+   "target": "\uc9c4\ud589",
+   "value": 19
+  },
+  {
+   "source": "\uc0bc\uc131\uce74\ub4dc",
+   "target": "\ub79c\ub4dc",
+   "value": 20
+  },
+  {
+   "source": "\uc0bc\uc131\uce74\ub4dc",
+   "target": "\ucde8\ud5a5",
+   "value": 23
+  },
+  {
+   "source": "\uc0bc\uc131\uce74\ub4dc",
+   "target": "\uc138\ub300",
+   "value": 3
+  },
+  {
+   "source": "\uc0bc\uc131\uce74\ub4dc",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uc774\uc9c0\ud604",
+   "target": "\uadfc\uc721",
+   "value": 11
+  },
+  {
+   "source": "\uc774\uc9c0\ud604",
+   "target": "\uc721\uc544",
+   "value": 4
+  },
+  {
+   "source": "\uc774\uc9c0\ud604",
+   "target": "\ucd9c\uc2e0",
+   "value": 3
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\uc11c\ube44\uc2a4",
+   "value": 3
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 15
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\ud558\uc790",
+   "value": 14
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\ud55c\uc815\ud310",
+   "value": 8
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\ub3c4\uc804",
+   "value": 3
+  },
+  {
+   "source": "\uc0c8\ud574",
+   "target": "\ucd9c\uc2dc",
+   "value": 13
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 18
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uac04\uc2dd",
+   "value": 4
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc778\uae30",
+   "value": 11
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc9c0\ud37c",
+   "value": 18
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc81c\ud488",
+   "value": 11
+  },
+  {
+   "source": "\uc2a4\ub0b5",
+   "target": "\uc218\uc694",
+   "value": 4
+  },
+  {
+   "source": "\uac00\uad6c",
+   "target": "\ud65c\ub3d9",
+   "value": 4
+  },
+  {
+   "source": "\uc11c\ube44\uc2a4",
+   "target": "\uc778\uae30",
+   "value": 3
+  },
+  {
+   "source": "\uc11c\ube44\uc2a4",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\uae40\uc790\uc778",
+   "target": "\ud0c0\uc784",
+   "value": 10
+  },
+  {
+   "source": "\uae40\uc790\uc778",
+   "target": "\uc721\uc544",
+   "value": 4
+  },
+  {
+   "source": "\ub9de\ucda4",
+   "target": "\ubcf5\uc9c0",
+   "value": 13
+  },
+  {
+   "source": "\ub9de\ucda4",
+   "target": "\ucde8\ud5a5",
+   "value": 11
+  },
+  {
+   "source": "\ub9de\ucda4",
+   "target": "\uc138\ub300",
+   "value": 12
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc18c\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc9c4\ud589",
+   "value": 6
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uae09\uc99d",
+   "value": 15
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ucd5c\uace0",
+   "value": 3
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ub3cc\ud30c",
+   "value": 6
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ub204\uc801",
+   "value": 5
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uacbd\ud5d8",
+   "value": 4
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ucc38\uc5ec",
+   "value": 10
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uac74\uc218",
+   "value": 16
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc624\ub514\uc158",
+   "value": 13
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ud601\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc601\uc785",
+   "value": 56
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uacf5\uc2dd",
+   "value": 10
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc99d\uac00",
+   "value": 10
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\ucd9c\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uac1c\ud3b8",
+   "value": 9
+  },
+  {
+   "source": "LG\uc720\ud50c\ub7ec\uc2a4",
+   "target": "\uc120\ubc1c",
+   "value": 17
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\uc6b4\uc601",
+   "value": 4
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\uc218\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\uc548\ub2e4",
+   "target": "\uae00\ub85c\ubc8c",
+   "value": 3
+  },
+  {
+   "source": "\uc548\ub2e4",
+   "target": "\uacf5\uc2dd",
+   "value": 4
+  },
+  {
+   "source": "\uc548\ub2e4",
+   "target": "\uc99d\uac00",
+   "value": 3
+  },
+  {
+   "source": "\uc548\ub2e4",
+   "target": "\ubd84\uae30",
+   "value": 12
+  },
+  {
+   "source": "\uc18c\uc2dd",
+   "target": "\ub77c\ubc15",
+   "value": 11
+  },
+  {
+   "source": "\uc18c\uc2dd",
+   "target": "\ud654\ubcf4",
+   "value": 3
+  },
+  {
+   "source": "\ub9e4\ub825",
+   "target": "\uc138\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\ub9e4\ub825",
+   "target": "\ucd9c\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ub79c\ub4dc",
+   "value": 15
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 11
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ucc38\uc5ec",
+   "value": 8
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ub9c8\ucf13",
+   "value": 3
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ucde8\ud5a5",
+   "value": 15
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc0ac\uc804",
+   "value": 4
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc624\ub514\uc158",
+   "value": 10
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uacf5\uc2dd",
+   "value": 5
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc2e0\uccad",
+   "value": 4
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc120\ubc1c",
+   "value": 6
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc81c\ud488",
+   "value": 17
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\uc81c\uc57d",
+   "value": 23
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ub77c\uc774\ud504",
+   "value": 14
+  },
+  {
+   "source": "\uc9c4\ud589",
+   "target": "\ud2f1\ud1a1",
+   "value": 4
+  },
+  {
+   "source": "\uc13c\ud130",
+   "target": "\uc778\uc99d",
+   "value": 7
+  },
+  {
+   "source": "\ubc1c\ud589",
+   "target": "VX",
+   "value": 6
+  },
+  {
+   "source": "\ubc1c\ud589",
+   "target": "\ucc38\uc5ec",
+   "value": 9
+  },
+  {
+   "source": "\ubc1c\ud589",
+   "target": "\ubcf4\ub77c",
+   "value": 10
+  },
+  {
+   "source": "\ubc1c\ud589",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 11
+  },
+  {
+   "source": "\uac1c\ucd5c",
+   "target": "\uc624\ub514\uc158",
+   "value": 5
+  },
+  {
+   "source": "\uac1c\ucd5c",
+   "target": "\uc120\ubc1c",
+   "value": 4
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\uacbd\ud5d8",
+   "value": 9
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\uac74\uc218",
+   "value": 10
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\ud601\uc2e0",
+   "value": 8
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\uc99d\uac00",
+   "value": 5
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 4
+  },
+  {
+   "source": "\uae09\uc99d",
+   "target": "\uac1c\ud3b8",
+   "value": 5
+  },
+  {
+   "source": "\ucd5c\uace0",
+   "target": "\uc601\uc785",
+   "value": 8
+  },
+  {
+   "source": "\uc870\ubbfc\uc544",
+   "target": "\uc721\uc544",
+   "value": 3
+  },
+  {
+   "source": "\ud655\ub300",
+   "target": "\uc601\uc785",
+   "value": 4
+  },
+  {
+   "source": "\uc18c\uc5f0",
+   "target": "\uc885\ud569",
+   "value": 3
+  },
+  {
+   "source": "\uc18c\uc5f0",
+   "target": "\uc77c\uc0c1",
+   "value": 4
+  },
+  {
+   "source": "\uc885\ud569",
+   "target": "\uc77c\uccb4",
+   "value": 5
+  },
+  {
+   "source": "\ucde8\ubbf8",
+   "target": "\ud074\ub798\uc2a4",
+   "value": 6
+  },
+  {
+   "source": "\ucde8\ubbf8",
+   "target": "\uccad\ub144",
+   "value": 6
+  },
+  {
+   "source": "\uadfc\uc721",
+   "target": "\uc721\uc544",
+   "value": 3
+  },
+  {
+   "source": "\ub79c\ub4dc",
+   "target": "\ucde8\ud5a5",
+   "value": 20
+  },
+  {
+   "source": "\ud3ec\ud1a0",
+   "target": "\ud2f1\ud1a1",
+   "value": 3
+  },
+  {
+   "source": "\ud50c\ub808\uc774",
+   "target": "\uc2a4\ub9c8\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "\ud50c\ub808\uc774",
+   "target": "\uac8c\uc784",
+   "value": 3
+  },
+  {
+   "source": "\ud50c\ub808\uc774",
+   "target": "\uacbd\ud5d8",
+   "value": 3
+  },
+  {
+   "source": "\ud50c\ub808\uc774",
+   "target": "\ucd9c\uc2dc",
+   "value": 7
+  },
+  {
+   "source": "\ubc1c\ud45c",
+   "target": "\uacf5\uac04",
+   "value": 6
+  },
+  {
+   "source": "\ubc1c\ud45c",
+   "target": "\uc62c\ud574",
+   "value": 3
+  },
+  {
+   "source": "\ub3cc\ud30c",
+   "target": "\ub204\uc801",
+   "value": 10
+  },
+  {
+   "source": "\ub3cc\ud30c",
+   "target": "\uac74\uc218",
+   "value": 7
+  },
+  {
+   "source": "\ube44\ub9cc",
+   "target": "30\ub300",
+   "value": 6
+  },
+  {
+   "source": "\ube44\ub9cc",
+   "target": "\ud5c8\ub9ac",
+   "value": 4
+  },
+  {
+   "source": "\ube44\ub9cc",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 5
+  },
+  {
+   "source": "\uc81c\uc791",
+   "target": "\uc77c\uccb4",
+   "value": 5
+  },
+  {
+   "source": "\ud074\ub798\uc2a4",
+   "target": "\uccad\ub144",
+   "value": 6
+  },
+  {
+   "source": "\uc2a4\ub9c8\ud2b8",
+   "target": "VX",
+   "value": 17
+  },
+  {
+   "source": "\uc2a4\ub9c8\ud2b8",
+   "target": "\uc0ac\uc804",
+   "value": 18
+  },
+  {
+   "source": "\uc2a4\ub9c8\ud2b8",
+   "target": "\ucd9c\uc2dc",
+   "value": 5
+  },
+  {
+   "source": "\uc2a4\ub9c8\ud2b8",
+   "target": "\uc2e0\uccad",
+   "value": 18
+  },
+  {
+   "source": "\uc2dc\ub300",
+   "target": "\ube44\ub300",
+   "value": 3
+  },
+  {
+   "source": "\uc2dc\ub300",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 7
+  },
+  {
+   "source": "\ub204\uc801",
+   "target": "\uac74\uc218",
+   "value": 6
+  },
+  {
+   "source": "\uacf5\uac04",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 4
+  },
+  {
+   "source": "\ubcf5\uc9c0",
+   "target": "\ucde8\ud5a5",
+   "value": 12
+  },
+  {
+   "source": "\ubcf5\uc9c0",
+   "target": "\uc138\ub300",
+   "value": 15
+  },
+  {
+   "source": "\uccad\ub144",
+   "target": "\uc6b4\uc601",
+   "value": 3
+  },
+  {
+   "source": "VX",
+   "target": "\ucc38\uc5ec",
+   "value": 8
+  },
+  {
+   "source": "VX",
+   "target": "\uc0ac\uc804",
+   "value": 7
+  },
+  {
+   "source": "VX",
+   "target": "\ubcf4\ub77c",
+   "value": 7
+  },
+  {
+   "source": "VX",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 5
+  },
+  {
+   "source": "VX",
+   "target": "\uc2e0\uccad",
+   "value": 7
+  },
+  {
+   "source": "\ub77c\ubc15",
+   "target": "\ud654\ubcf4",
+   "value": 9
+  },
+  {
+   "source": "\uacbd\ud5d8",
+   "target": "\ud601\uc2e0",
+   "value": 9
+  },
+  {
+   "source": "\ucc38\uc5ec",
+   "target": "\uc624\ub514\uc158",
+   "value": 17
+  },
+  {
+   "source": "\ucc38\uc5ec",
+   "target": "\ubcf4\ub77c",
+   "value": 23
+  },
+  {
+   "source": "\ucc38\uc5ec",
+   "target": "\uacf5\uc2dd",
+   "value": 11
+  },
+  {
+   "source": "\ucc38\uc5ec",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 7
+  },
+  {
+   "source": "\ucc38\uc5ec",
+   "target": "\uc120\ubc1c",
+   "value": 14
+  },
+  {
+   "source": "\ud654\uc774\ud2b8\ub370\uc774",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 18
+  },
+  {
+   "source": "\ud654\uc774\ud2b8\ub370\uc774",
+   "target": "\ud55c\uc815\ud310",
+   "value": 13
+  },
+  {
+   "source": "\ud654\uc774\ud2b8\ub370\uc774",
+   "target": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "value": 12
+  },
+  {
+   "source": "\ud654\uc774\ud2b8\ub370\uc774",
+   "target": "\ucd9c\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "30\ub300",
+   "target": "\ud5c8\ub9ac",
+   "value": 17
+  },
+  {
+   "source": "30\ub300",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 21
+  },
+  {
+   "source": "\ucde8\ud5a5",
+   "target": "\uc138\ub300",
+   "value": 15
+  },
+  {
+   "source": "\ucde8\ud5a5",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uadfc\ud669",
+   "target": "\ubc30\uc6b0",
+   "value": 3
+  },
+  {
+   "source": "\ud55c\uc6b0",
+   "target": "\uad11\uace0",
+   "value": 8
+  },
+  {
+   "source": "\ud55c\uc6b0",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\ud55c\uc6b0",
+   "target": "\uae30\uc220",
+   "value": 8
+  },
+  {
+   "source": "\uc0ac\uc804",
+   "target": "\uc2e0\uccad",
+   "value": 23
+  },
+  {
+   "source": "\uac74\uc218",
+   "target": "\uc99d\uac00",
+   "value": 14
+  },
+  {
+   "source": "\uac74\uc218",
+   "target": "\uac1c\ud3b8",
+   "value": 16
+  },
+  {
+   "source": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "target": "\uc624\ub9ac\uc628",
+   "value": 18
+  },
+  {
+   "source": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "target": "\ud55c\uc815\ud310",
+   "value": 14
+  },
+  {
+   "source": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "target": "\ucd9c\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+   "target": "\ud2f1\ud1a1",
+   "value": 4
+  },
+  {
+   "source": "\uc624\ub514\uc158",
+   "target": "\uacf5\uc2dd",
+   "value": 11
+  },
+  {
+   "source": "\uc624\ub514\uc158",
+   "target": "\uc120\ubc1c",
+   "value": 19
+  },
+  {
+   "source": "\uad11\uace0",
+   "target": "\uae30\uc220",
+   "value": 6
+  },
+  {
+   "source": "\ub77c\uc778",
+   "target": "\ucd9c\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uac04\uc2dd",
+   "value": 9
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uc778\uae30",
+   "value": 15
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\ud558\uc790",
+   "value": 14
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\ud55c\uc815\ud310",
+   "value": 40
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uc99d\uac00",
+   "value": 8
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "value": 14
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\ucd9c\uc2dc",
+   "value": 50
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uc9c0\ud37c",
+   "value": 18
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uc81c\ud488",
+   "value": 17
+  },
+  {
+   "source": "\uc624\ub9ac\uc628",
+   "target": "\uc218\uc694",
+   "value": 8
+  },
+  {
+   "source": "\uac04\uc2dd",
+   "target": "\uc778\uae30",
+   "value": 5
+  },
+  {
+   "source": "\uac04\uc2dd",
+   "target": "\uc99d\uac00",
+   "value": 7
+  },
+  {
+   "source": "\uac04\uc2dd",
+   "target": "\uc9c0\ud37c",
+   "value": 4
+  },
+  {
+   "source": "\uac04\uc2dd",
+   "target": "\uc81c\ud488",
+   "value": 7
+  },
+  {
+   "source": "\uac04\uc2dd",
+   "target": "\uc218\uc694",
+   "value": 8
+  },
+  {
+   "source": "\uc778\uae30",
+   "target": "\uc99d\uac00",
+   "value": 4
+  },
+  {
+   "source": "\uc778\uae30",
+   "target": "\uc9c0\ud37c",
+   "value": 11
+  },
+  {
+   "source": "\uc778\uae30",
+   "target": "\uc81c\ud488",
+   "value": 14
+  },
+  {
+   "source": "\uc778\uae30",
+   "target": "\uc218\uc694",
+   "value": 4
+  },
+  {
+   "source": "\ud558\uc790",
+   "target": "\ud55c\uc815\ud310",
+   "value": 8
+  },
+  {
+   "source": "\ud558\uc790",
+   "target": "\ucd9c\uc2dc",
+   "value": 12
+  },
+  {
+   "source": "\ud5c8\ub9ac",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 15
+  },
+  {
+   "source": "\uae30\uc5c5",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\ubcf4\ub77c",
+   "target": "\uc2a4\ud06c\ub9b0\uace8\ud504",
+   "value": 7
+  },
+  {
+   "source": "\ud55c\uc815\ud310",
+   "target": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "value": 9
+  },
+  {
+   "source": "\ud55c\uc815\ud310",
+   "target": "\ucd9c\uc2dc",
+   "value": 35
+  },
+  {
+   "source": "\ub300\ud45c",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\uc138\uc0c1",
+   "target": "\uacf5\uc2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc138\uc0c1",
+   "target": "\ucd9c\uc5f0",
+   "value": 14
+  },
+  {
+   "source": "\uc601\uc785",
+   "target": "\ucd9c\uc2e0",
+   "value": 10
+  },
+  {
+   "source": "\uacf5\uc2dd",
+   "target": "\ucd9c\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\uacf5\uc2dd",
+   "target": "\uc120\ubc1c",
+   "value": 30
+  },
+  {
+   "source": "\ud0c0\uc784",
+   "target": "\uc721\uc544",
+   "value": 4
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\ucd9c\uc2dc",
+   "value": 4
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\uc9c0\ud37c",
+   "value": 3
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 7
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\uac1c\ud3b8",
+   "value": 8
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\uc81c\ud488",
+   "value": 5
+  },
+  {
+   "source": "\uc99d\uac00",
+   "target": "\uc218\uc694",
+   "value": 7
+  },
+  {
+   "source": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774",
+   "target": "\ucd9c\uc2dc",
+   "value": 9
+  },
+  {
+   "source": "\uc77c\uc0c1",
+   "target": "\uc62c\ud574",
+   "value": 6
+  },
+  {
+   "source": "\uc9c0\ud37c",
+   "target": "\uc81c\ud488",
+   "value": 11
+  },
+  {
+   "source": "\uc9c0\ud37c",
+   "target": "\uc218\uc694",
+   "value": 4
+  },
+  {
+   "source": "\ube44\ub300",
+   "target": "\uadfc\ub825",
+   "value": 3
+  },
+  {
+   "source": "\ud3c9\uc0dd",
+   "target": "\ub098\uc8fc\uc2dc",
+   "value": 15
+  },
+  {
+   "source": "\ud3c9\uc0dd",
+   "target": "\uac15\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\uac10\ub7c9",
+   "target": "\ube44\uacb0",
+   "value": 7
+  },
+  {
+   "source": "\ub098\uc8fc\uc2dc",
+   "target": "\uac15\uc0dd",
+   "value": 15
+  },
+  {
+   "source": "\uc81c\ud488",
+   "target": "\uc81c\uc57d",
+   "value": 23
+  },
+  {
+   "source": "\uc81c\ud488",
+   "target": "\uc218\uc694",
+   "value": 6
+  },
+  {
+   "source": "\ub77c\uc774\ud504",
+   "target": "\uc2e4\uc2dc",
+   "value": 3
+  }
+ ],
+ "nodes": [
+  {
+   "group": 0,
+   "id": "\ud2b8\ub80c\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\ud0a4\uc6cc\ub4dc"
+  },
+  {
+   "group": 1,
+   "id": "\ucf58\ud150\uce20"
+  },
+  {
+   "group": 0,
+   "id": "\ubc84\uc804"
+  },
+  {
+   "group": 0,
+   "id": "\ube14\ub791"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ud3ec\uce20"
+  },
+  {
+   "group": 0,
+   "id": "\uc870\uc900\ud638"
+  },
+  {
+   "group": 0,
+   "id": "\ud50c\ub7ab\ud3fc"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc720"
+  },
+  {
+   "group": 0,
+   "id": "\uacbd\uc7c1\ub825"
+  },
+  {
+   "group": 0,
+   "id": "\uc8fc\ub9d0"
+  },
+  {
+   "group": 0,
+   "id": "\uc0ac\ubd80"
+  },
+  {
+   "group": 0,
+   "id": "\uc0b0\ub2e4"
+  },
+  {
+   "group": 0,
+   "id": "\uc0ac\uc5c5"
+  },
+  {
+   "group": 0,
+   "id": "\ub2e4\uc774\uc5b4\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uba85\uc808"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\ud504\ub77c\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\ucd5c\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\ud504\ub85c\ubaa8\uc158"
+  },
+  {
+   "group": 0,
+   "id": "\uc804\ubb38"
+  },
+  {
+   "group": 1,
+   "id": "\uc6b4\ub3d9"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc815\ud604"
+  },
+  {
+   "group": 0,
+   "id": "\uc124\ub9de\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\uae08\uc735"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\ub150"
+  },
+  {
+   "group": 0,
+   "id": "\ubb38\ud654\uc0dd\ud65c"
+  },
+  {
+   "group": 0,
+   "id": "\ud6a8\uacfc"
+  },
+  {
+   "group": 0,
+   "id": "\uad6c\ubd80"
+  },
+  {
+   "group": 0,
+   "id": "\uad00\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\uc694\uac00"
+  },
+  {
+   "group": 0,
+   "id": "\uba54\uc774\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uac74\uac15"
+  },
+  {
+   "group": 0,
+   "id": "\ub9b0\uc9c0"
+  },
+  {
+   "group": 0,
+   "id": "\uc601\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\ub2e8\uc7a5"
+  },
+  {
+   "group": 0,
+   "id": "\uba54\ud0c0\ubc84\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uace8\ud504"
+  },
+  {
+   "group": 0,
+   "id": "\ud638\uc801"
+  },
+  {
+   "group": 0,
+   "id": "\uc9c0\uc6d0"
+  },
+  {
+   "group": 0,
+   "id": "\ub9e4\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ucffc\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ub86f\ub370"
+  },
+  {
+   "group": 0,
+   "id": "\ubdf0\ud2f0"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\ud6c4"
+  },
+  {
+   "group": 0,
+   "id": "\ubc43\uc0b4"
+  },
+  {
+   "group": 0,
+   "id": "\uc8fc\ud0dd"
+  },
+  {
+   "group": 0,
+   "id": "\uc6a9\ub7c9"
+  },
+  {
+   "group": 0,
+   "id": "\uc804\uc6a9"
+  },
+  {
+   "group": 0,
+   "id": "\uad50\uc815"
+  },
+  {
+   "group": 0,
+   "id": "19"
+  },
+  {
+   "group": 0,
+   "id": "\uc5f0\ud734"
+  },
+  {
+   "group": 0,
+   "id": "\ud544\uc694"
+  },
+  {
+   "group": 0,
+   "id": "\ucea0\ud504"
+  },
+  {
+   "group": 0,
+   "id": "\ubb38\ud654"
+  },
+  {
+   "group": 0,
+   "id": "\uae40\uc815\uc784"
+  },
+  {
+   "group": 0,
+   "id": "\uba39\ubc29"
+  },
+  {
+   "group": 0,
+   "id": "\ub864\ub7ec"
+  },
+  {
+   "group": 0,
+   "id": "\uaddc\uaca9"
+  },
+  {
+   "group": 0,
+   "id": "\uacf5\uac1c"
+  },
+  {
+   "group": 0,
+   "id": "\uace0\uac1d"
+  },
+  {
+   "group": 0,
+   "id": "\uad50\uc721"
+  },
+  {
+   "group": 0,
+   "id": "\ud589\uc0ac"
+  },
+  {
+   "group": 0,
+   "id": "\ud544\ub77c\ud14c\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "TV"
+  },
+  {
+   "group": 0,
+   "id": "\uc2e0\ud55c\uce74\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\uc0ac\uc9c4"
+  },
+  {
+   "group": 0,
+   "id": "\ud5ec\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uc6d4\ud3c9\uade0"
+  },
+  {
+   "group": 0,
+   "id": "\uc0c1\ubc18\uae30"
+  },
+  {
+   "group": 0,
+   "id": "\uc790\uc138"
+  },
+  {
+   "group": 1,
+   "id": "\uce74\uce74\uc624"
+  },
+  {
+   "group": 0,
+   "id": "\uc800\uaca9"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\uc791"
+  },
+  {
+   "group": 0,
+   "id": "\ubc18\uc804"
+  },
+  {
+   "group": 0,
+   "id": "\ud2b8\ub808\uc774\ub2dd"
+  },
+  {
+   "group": 0,
+   "id": "\uc218\uc785"
+  },
+  {
+   "group": 0,
+   "id": "\uccb4\uc721"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ud2b8\ub808\uce6d"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc6a9"
+  },
+  {
+   "group": 0,
+   "id": "\ub9c8\ub140"
+  },
+  {
+   "group": 0,
+   "id": "\uac70\ubc84\ub10c\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\ud560\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\ub808\uae45\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\ube0c\ub79c\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\ub9ac\ud50c\ub808\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\uad6c"
+  },
+  {
+   "group": 0,
+   "id": "\uc18c\ube44"
+  },
+  {
+   "group": 0,
+   "id": "10\ubd84"
+  },
+  {
+   "group": 0,
+   "id": "\ubd84\uc591"
+  },
+  {
+   "group": 0,
+   "id": "\uc81c\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\uc774\ube0c"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf5\uadfc"
+  },
+  {
+   "group": 0,
+   "id": "\ub3d9\uad6d"
+  },
+  {
+   "group": 0,
+   "id": "\uac15\ud654"
+  },
+  {
+   "group": 0,
+   "id": "\ubab8\ub9e4"
+  },
+  {
+   "group": 0,
+   "id": "\ud2f0\ubaac"
+  },
+  {
+   "group": 0,
+   "id": "\ub2ec\uc131"
+  },
+  {
+   "group": 0,
+   "id": "\ud504\ub85c\uc81d\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ub3cc\uc785"
+  },
+  {
+   "group": 0,
+   "id": "\uc628\ub77c\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\uc720\ud1b5"
+  },
+  {
+   "group": 0,
+   "id": "\ub0a8\ub140"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\ud615\ud0dd"
+  },
+  {
+   "group": 0,
+   "id": "\ub0a8\uc131"
+  },
+  {
+   "group": 0,
+   "id": "\uac1c\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\uc131\uc7a5"
+  },
+  {
+   "group": 0,
+   "id": "\uc0dd\uc874"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\uccad"
+  },
+  {
+   "group": 0,
+   "id": "\ub9e4\ucd9c"
+  },
+  {
+   "group": 0,
+   "id": "\uc138\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ud68c\uc6d0\uad8c"
+  },
+  {
+   "group": 0,
+   "id": "\ub9cc\ub2a5"
+  },
+  {
+   "group": 0,
+   "id": "\uc120\ubb3c"
+  },
+  {
+   "group": 0,
+   "id": "FIT"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\ub355\uc7ac"
+  },
+  {
+   "group": 0,
+   "id": "\ub300\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\ub3d9\uc791"
+  },
+  {
+   "group": 0,
+   "id": "\uc0dd\ud65c"
+  },
+  {
+   "group": 0,
+   "id": "\uc81c\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ubaa8\uc9d1"
+  },
+  {
+   "group": 0,
+   "id": "\uc804\uc6d0"
+  },
+  {
+   "group": 0,
+   "id": "\ud2b8\ub808\uc774\ub108"
+  },
+  {
+   "group": 0,
+   "id": "\uccb4\ub825"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\ubca4\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uc0bc\uc131\uce74\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc9c0\ud604"
+  },
+  {
+   "group": 0,
+   "id": "\uc0c8\ud574"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ub0b5"
+  },
+  {
+   "group": 0,
+   "id": "\uac00\uad6c"
+  },
+  {
+   "group": 0,
+   "id": "\uc11c\ube44\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uae40\uc790\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\ud65c\ub3d9"
+  },
+  {
+   "group": 0,
+   "id": "\ub9de\ucda4"
+  },
+  {
+   "group": 1,
+   "id": "LG\uc720\ud50c\ub7ec\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uc6a9\ud488"
+  },
+  {
+   "group": 0,
+   "id": "\uc7a5\uc560\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\uc548\ub2e4"
+  },
+  {
+   "group": 0,
+   "id": "\uc18c\uc2dd"
+  },
+  {
+   "group": 0,
+   "id": "\ub9e4\ub825"
+  },
+  {
+   "group": 1,
+   "id": "\uc9c4\ud589"
+  },
+  {
+   "group": 0,
+   "id": "\ubc1c\ud589"
+  },
+  {
+   "group": 0,
+   "id": "\ud2b8\ub9ac\uc624"
+  },
+  {
+   "group": 0,
+   "id": "\uc13c\ud130"
+  },
+  {
+   "group": 0,
+   "id": "\uac1c\ucd5c"
+  },
+  {
+   "group": 0,
+   "id": "\uae09\uc99d"
+  },
+  {
+   "group": 0,
+   "id": "\ucd5c\uace0"
+  },
+  {
+   "group": 0,
+   "id": "\ud655\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\uc870\ubbfc\uc544"
+  },
+  {
+   "group": 0,
+   "id": "\uc18c\uc5f0"
+  },
+  {
+   "group": 0,
+   "id": "\uc885\ud569"
+  },
+  {
+   "group": 0,
+   "id": "\ucde8\ubbf8"
+  },
+  {
+   "group": 0,
+   "id": "\uadfc\uc721"
+  },
+  {
+   "group": 0,
+   "id": "\ub79c\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\ubc1c\ud45c"
+  },
+  {
+   "group": 0,
+   "id": "\ud50c\ub808\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\ud3ec\ud1a0"
+  },
+  {
+   "group": 0,
+   "id": "\ub3cc\ud30c"
+  },
+  {
+   "group": 0,
+   "id": "\ube44\ub9cc"
+  },
+  {
+   "group": 0,
+   "id": "\uc81c\uc791"
+  },
+  {
+   "group": 0,
+   "id": "\ud074\ub798\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ub9c8\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\ub204\uc801"
+  },
+  {
+   "group": 0,
+   "id": "\uacf5\uac04"
+  },
+  {
+   "group": 0,
+   "id": "\uac8c\uc784"
+  },
+  {
+   "group": 0,
+   "id": "\uccad\ub144"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf5\uc9c0"
+  },
+  {
+   "group": 0,
+   "id": "VX"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\ubc15"
+  },
+  {
+   "group": 0,
+   "id": "\uacbd\ud5d8"
+  },
+  {
+   "group": 0,
+   "id": "\ucc38\uc5ec"
+  },
+  {
+   "group": 0,
+   "id": "\ud654\uc774\ud2b8\ub370\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\ub9c8\ucf13"
+  },
+  {
+   "group": 0,
+   "id": "30\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\ucde8\ud5a5"
+  },
+  {
+   "group": 0,
+   "id": "\uadfc\ud669"
+  },
+  {
+   "group": 0,
+   "id": "\ud55c\uc6b0"
+  },
+  {
+   "group": 0,
+   "id": "\uc0ac\uc804"
+  },
+  {
+   "group": 0,
+   "id": "\uc5b4\uae68"
+  },
+  {
+   "group": 0,
+   "id": "\uac74\uc218"
+  },
+  {
+   "group": 0,
+   "id": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\ub514\uc158"
+  },
+  {
+   "group": 0,
+   "id": "\uad11\uace0"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ud0c0"
+  },
+  {
+   "group": 0,
+   "id": "\uae00\ub85c\ubc8c"
+  },
+  {
+   "group": 0,
+   "id": "\uc6b4\uc601"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\ud654\ubcf4"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc288"
+  },
+  {
+   "group": 0,
+   "id": "\uc218\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\ub9ac\uc628"
+  },
+  {
+   "group": 0,
+   "id": "\uac04\uc2dd"
+  },
+  {
+   "group": 0,
+   "id": "\uc778\uae30"
+  },
+  {
+   "group": 0,
+   "id": "\ud558\uc790"
+  },
+  {
+   "group": 0,
+   "id": "\ud5c8\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\ub300\ud45c"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf4\ub77c"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\uc5c5"
+  },
+  {
+   "group": 0,
+   "id": "\ud55c\uc815\ud310"
+  },
+  {
+   "group": 0,
+   "id": "\ud601\uc2e0"
+  },
+  {
+   "group": 0,
+   "id": "\uc138\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\ub3c4\uc804"
+  },
+  {
+   "group": 0,
+   "id": "\uc601\uc785"
+  },
+  {
+   "group": 0,
+   "id": "\uacf5\uc2dd"
+  },
+  {
+   "group": 0,
+   "id": "\ud0c0\uc784"
+  },
+  {
+   "group": 0,
+   "id": "\uc778\uc99d"
+  },
+  {
+   "group": 0,
+   "id": "\uc99d\uac00"
+  },
+  {
+   "group": 0,
+   "id": "\ubc38\ub7f0\ud0c0\uc778\ub370\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\ucd9c\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\uc77c\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\uc9c0\ud37c"
+  },
+  {
+   "group": 0,
+   "id": "\ube44\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\uc721\uc544"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ud06c\ub9b0\uace8\ud504"
+  },
+  {
+   "group": 0,
+   "id": "\uac10\ub7c9"
+  },
+  {
+   "group": 0,
+   "id": "\ud3c9\uc0dd"
+  },
+  {
+   "group": 0,
+   "id": "\ubc30\uc6b0"
+  },
+  {
+   "group": 0,
+   "id": "\ucf54\ub85c\ub098"
+  },
+  {
+   "group": 0,
+   "id": "\ub098\uc8fc\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\ucd9c\uc2e0"
+  },
+  {
+   "group": 0,
+   "id": "\ucd9c\uc5f0"
+  },
+  {
+   "group": 0,
+   "id": "\uac1c\ud3b8"
+  },
+  {
+   "group": 0,
+   "id": "\uc2e0\uccad"
+  },
+  {
+   "group": 0,
+   "id": "\uc81c\ud488"
+  },
+  {
+   "group": 0,
+   "id": "\uc62c\ud574"
+  },
+  {
+   "group": 0,
+   "id": "\uc77c\uccb4"
+  },
+  {
+   "group": 0,
+   "id": "\uc81c\uc57d"
+  },
+  {
+   "group": 0,
+   "id": "\uc138\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\uc120\ubc1c"
+  },
+  {
+   "group": 0,
+   "id": "\uac15\uc0dd"
+  },
+  {
+   "group": 0,
+   "id": "\ubd84\uae30"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\uc774\ud504"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\uc220"
+  },
+  {
+   "group": 0,
+   "id": "\uc2e4\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\uc870\uc900\ud604"
+  },
+  {
+   "group": 0,
+   "id": "\ube44\uacb0"
+  },
+  {
+   "group": 0,
+   "id": "\uc218\uc694"
+  },
+  {
+   "group": 0,
+   "id": "\uadfc\ub825"
+  },
+  {
+   "group": 0,
+   "id": "\ud2f1\ud1a1"
+  }
+ ]
+}
