@@ -1,0 +1,1855 @@
+{
+ "links": [
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\ub9b0\uc9c0",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uccb4\uc870",
+   "value": 4
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uc804\uc2e0",
+   "value": 6
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\ub8e8\ud2f4",
+   "value": 5
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uad6d\uac00\ub300\ud45c",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uc2e0\uc218\uc9c0",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\ub9ac\ub4ec",
+   "value": 3
+  },
+  {
+   "source": "\uce35\uac04\uc18c\uc74c",
+   "target": "\uc2dc\uc98c",
+   "value": 3
+  },
+  {
+   "source": "\uaca9\ub9ac",
+   "target": "\uc790\uac00",
+   "value": 3
+  },
+  {
+   "source": "\ube7c\uae30",
+   "target": "\ubc43\uc0b4",
+   "value": 3
+  },
+  {
+   "source": "\ub85c\uadf8",
+   "target": "\ube0c\uc774",
+   "value": 11
+  },
+  {
+   "source": "\ub85c\uadf8",
+   "target": "\ud640\ub85c",
+   "value": 3
+  },
+  {
+   "source": "\ub85c\uadf8",
+   "target": "\uac15\uc544\uc9c0",
+   "value": 3
+  },
+  {
+   "source": "\ub85c\uadf8",
+   "target": "\uc77c\uc0c1",
+   "value": 5
+  },
+  {
+   "source": "\uc5d0\uc5b4\ub85c\ube45",
+   "target": "\ub2e4\uc774\uc5b4\ud2b8",
+   "value": 10
+  },
+  {
+   "source": "\uc5d0\uc5b4\ub85c\ube45",
+   "target": "\uc720\uc0b0",
+   "value": 4
+  },
+  {
+   "source": "\uc5d0\uc5b4\ub85c\ube45",
+   "target": "\ub304\uc2a4",
+   "value": 9
+  },
+  {
+   "source": "\uc5d0\uc5b4\ub85c\ube45",
+   "target": "\uadfc\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uc6e8\uc774",
+   "target": "\ub8e8\ud2f4",
+   "value": 4
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc624\ud6c4",
+   "value": 7
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\ud558\uccb4",
+   "value": 5
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc2dd\ub2e8",
+   "value": 4
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc804\uc2e0",
+   "value": 9
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uc720\uc0b0",
+   "value": 24
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\ub304\uc2a4",
+   "value": 11
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\ube44\ub300",
+   "value": 11
+  },
+  {
+   "source": "\ub2e4\uc774\uc5b4\ud2b8",
+   "target": "\uadfc\ub825",
+   "value": 19
+  },
+  {
+   "source": "-4",
+   "target": "\uc720\uc2b9",
+   "value": 3
+  },
+  {
+   "source": "\ud558\ub8e8",
+   "target": "10\ubd84",
+   "value": 10
+  },
+  {
+   "source": "\ud558\ub8e8",
+   "target": "\uc804\uc2e0",
+   "value": 3
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\uac74\uac15",
+   "value": 5
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\uad50\uc2e4",
+   "value": 5
+  },
+  {
+   "source": "\uc774\uc815\ud604",
+   "target": "\ubc31\uc138",
+   "value": 5
+  },
+  {
+   "source": "\uc790\uae30",
+   "target": "\uad00\ub9ac",
+   "value": 4
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "TV",
+   "value": 3
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "\ub3c4\uc218",
+   "value": 3
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "\uac15\ud654",
+   "value": 4
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "\ucf54\ub07c\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "\uce58\ub8cc",
+   "value": 3
+  },
+  {
+   "source": "\ud1b5\uc99d",
+   "target": "\ud5c8\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\ube0c\uc774",
+   "target": "\ud640\ub85c",
+   "value": 3
+  },
+  {
+   "source": "\ube0c\uc774",
+   "target": "\uac15\uc544\uc9c0",
+   "value": 3
+  },
+  {
+   "source": "\ube0c\uc774",
+   "target": "\uc77c\uc0c1",
+   "value": 5
+  },
+  {
+   "source": "\uc9c0\ubc29",
+   "target": "\uc804\uc2e0",
+   "value": 3
+  },
+  {
+   "source": "\uc9c0\ubc29",
+   "target": "\uc5f0\uc18c",
+   "value": 4
+  },
+  {
+   "source": "\uc624\ud6c4",
+   "target": "\uac15\ud654",
+   "value": 4
+  },
+  {
+   "source": "\uc624\ud6c4",
+   "target": "\uc720\uc0b0",
+   "value": 6
+  },
+  {
+   "source": "\uc624\ud6c4",
+   "target": "\ube44\ub300",
+   "value": 17
+  },
+  {
+   "source": "\uc624\ud6c4",
+   "target": "\ubc38\ub7f0\uc2a4",
+   "value": 3
+  },
+  {
+   "source": "\uc624\ud6c4",
+   "target": "\uadfc\ub825",
+   "value": 6
+  },
+  {
+   "source": "\ubca8\ub77c",
+   "target": "\uc694\uac00",
+   "value": 3
+  },
+  {
+   "source": "\ubca8\ub77c",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc790\uc138",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 16
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\uc720\uc5f0\uc131",
+   "value": 3
+  },
+  {
+   "source": "\uc694\uac00",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ub3d9\uc791",
+   "value": 3
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\uad50\uc2e4",
+   "value": 6
+  },
+  {
+   "source": "\uac74\uac15",
+   "target": "\ubc31\uc138",
+   "value": 6
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uccb4\uc870",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ub8e8\ud2f4",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uad6d\uac00\ub300\ud45c",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2e0\uc218\uc9c0",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\ub9b0\uc9c0",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "\uc0c1\uccb4",
+   "target": "\ubcf5\uadfc",
+   "value": 8
+  },
+  {
+   "source": "\uc0c1\uccb4",
+   "target": "\uc720\uc0b0",
+   "value": 9
+  },
+  {
+   "source": "\uc0c1\uccb4",
+   "target": "\uc62c\uc778\uc6d0",
+   "value": 7
+  },
+  {
+   "source": "\uc0c1\uccb4",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 7
+  },
+  {
+   "source": "\uc0c1\uccb4",
+   "target": "\uadfc\ub825",
+   "value": 9
+  },
+  {
+   "source": "\ub9e8\uc190",
+   "target": "\uccb4\uc870",
+   "value": 4
+  },
+  {
+   "source": "\ub9e8\uc190",
+   "target": "\ud558\ub4dc\ucf54\uc5b4",
+   "value": 4
+  },
+  {
+   "source": "\ub9e8\uc190",
+   "target": "\uc6cc\ubc0d\uc5c5",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ud558\uccb4",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ubaa8\ub2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ucffc\ud2b8",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc2a4\ud2b8\ub808\uce6d",
+   "value": 3
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\ubcf5\uadfc",
+   "value": 5
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc804\uc2e0",
+   "value": 3
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc720\uc0b0",
+   "value": 18
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc62c\uc778\uc6d0",
+   "value": 13
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\ucee4\ud50c",
+   "value": 4
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 12
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uae40\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uc9c0\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\ud558\uccb4",
+   "target": "\uadfc\ub825",
+   "value": 21
+  },
+  {
+   "source": "\ubc43\uc0b4",
+   "target": "\ubcf5\uadfc",
+   "value": 3
+  },
+  {
+   "source": "\ubc43\uc0b4",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\ubc43\uc0b4",
+   "target": "\ud5c8\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\ub300\uba74",
+   "target": "\uc628\ub77c\uc778",
+   "value": 5
+  },
+  {
+   "source": "\uad50\uc815",
+   "target": "\uace8\ubc18",
+   "value": 3
+  },
+  {
+   "source": "19",
+   "target": "\uadf9\ubcf5",
+   "value": 3
+  },
+  {
+   "source": "19",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "19",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\uc9c0\uc6d0\uc790",
+   "target": "\ud2b8\ub808\uc774\ub108",
+   "value": 9
+  },
+  {
+   "source": "\uc9c0\uc6d0\uc790",
+   "target": "\uc624\ub514\uc158",
+   "value": 9
+  },
+  {
+   "source": "\ud544\uc694",
+   "target": "\ucf54\uc5b4",
+   "value": 4
+  },
+  {
+   "source": "\ud544\uc694",
+   "target": "10\ubd84",
+   "value": 5
+  },
+  {
+   "source": "\ud544\uc694",
+   "target": "\uc7a5\ube44",
+   "value": 4
+  },
+  {
+   "source": "\ud0a4\uce5c",
+   "target": "\ud640\ub85c",
+   "value": 3
+  },
+  {
+   "source": "\ud0a4\uce5c",
+   "target": "\uac15\uc544\uc9c0",
+   "value": 3
+  },
+  {
+   "source": "\uc0ac\uc774\ub4dc",
+   "target": "\ubaa8\ub2dd",
+   "value": 3
+  },
+  {
+   "source": "\uc0ac\uc774\ub4dc",
+   "target": "\ub8e8\ud2f4",
+   "value": 5
+  },
+  {
+   "source": "TV",
+   "target": "\ub3c4\uc218",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\ucf54\ub07c\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "TV",
+   "target": "\uce58\ub8cc",
+   "value": 3
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ub304\uc2a4\uace1",
+   "value": 5
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uc7a5\uc724\uc815",
+   "value": 5
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ubaa8\uc74c",
+   "value": 5
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ub178\ub3d9\uc694",
+   "value": 5
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\uc2dc\uac04",
+   "value": 5
+  },
+  {
+   "source": "\ud5ec\uc2a4",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\ub3c4\uc218",
+   "target": "\ucf54\ub07c\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\ub3c4\uc218",
+   "target": "\uce58\ub8cc",
+   "value": 3
+  },
+  {
+   "source": "\uc790\uc138",
+   "target": "\uadfc\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uadf9\ubcf5",
+   "target": "\uc77c\uc0c1",
+   "value": 3
+  },
+  {
+   "source": "\uadf9\ubcf5",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\ubaa8\ub2dd",
+   "target": "\ub8e8\ud2f4",
+   "value": 37
+  },
+  {
+   "source": "\ubaa8\ub2dd",
+   "target": "\uc9d0\ubcf4",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud2b8\ub808\uce6d",
+   "target": "\uc804\uc2e0",
+   "value": 6
+  },
+  {
+   "source": "\uc2a4\ud2b8\ub808\uce6d",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\uc2a4\ud2b8\ub808\uce6d",
+   "target": "\ube44\ub300",
+   "value": 7
+  },
+  {
+   "source": "\uc8fc\ucc28",
+   "target": "\uc720\uc0b0",
+   "value": 3
+  },
+  {
+   "source": "\uc8fc\ucc28",
+   "target": "\ud2b8\ub9ac\uac70",
+   "value": 5
+  },
+  {
+   "source": "\ub808\uc774\uc988",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\uae30\uad6c",
+   "target": "\ubcf5\uadfc",
+   "value": 3
+  },
+  {
+   "source": "\ucf54\uc5b4",
+   "target": "10\ubd84",
+   "value": 8
+  },
+  {
+   "source": "\ucf54\uc5b4",
+   "target": "\ucd08\ubcf4\uc790",
+   "value": 3
+  },
+  {
+   "source": "\ucf54\uc5b4",
+   "target": "\ub8e8\ud2f4",
+   "value": 4
+  },
+  {
+   "source": "\ucf54\uc5b4",
+   "target": "\uc7a5\ube44",
+   "value": 4
+  },
+  {
+   "source": "\ub304\uc2a4\uace1",
+   "target": "\uc7a5\uc724\uc815",
+   "value": 5
+  },
+  {
+   "source": "\ub304\uc2a4\uace1",
+   "target": "\ubaa8\uc74c",
+   "value": 5
+  },
+  {
+   "source": "\ub304\uc2a4\uace1",
+   "target": "\ub178\ub3d9\uc694",
+   "value": 5
+  },
+  {
+   "source": "\ub304\uc2a4\uace1",
+   "target": "\uc2dc\uac04",
+   "value": 5
+  },
+  {
+   "source": "\ub304\uc2a4\uace1",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uc804\uc2e0",
+   "value": 5
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\ub8e8\ud2f4",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uad6d\uac00\ub300\ud45c",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\ub304\uc2a4",
+   "value": 3
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\ud558\ub4dc\ucf54\uc5b4",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uc2e0\uc218\uc9c0",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uc6cc\ubc0d\uc5c5",
+   "value": 3
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\uccb4\uc870",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "10\ubd84",
+   "target": "\ucd08\ubcf4\uc790",
+   "value": 3
+  },
+  {
+   "source": "10\ubd84",
+   "target": "\uc804\uc2e0",
+   "value": 5
+  },
+  {
+   "source": "10\ubd84",
+   "target": "\uc7a5\ube44",
+   "value": 4
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\ub2d8\uacfc \ud568\uaed8",
+   "value": 3
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\uc218\ub828",
+   "value": 4
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\ub514\uc6cc",
+   "value": 4
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\uac15\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\ub77c\uc774\ube0c",
+   "target": "\uc30d\ubc29\ud5a5",
+   "value": 3
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc804\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ub8e8\ud2f4",
+   "value": 3
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc720\uc0b0",
+   "value": 14
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc62c\uc778\uc6d0",
+   "value": 12
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 11
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ubcf5\ubd80",
+   "value": 4
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\ud5c8\ub9ac",
+   "value": 4
+  },
+  {
+   "source": "\ubcf5\uadfc",
+   "target": "\uadfc\ub825",
+   "value": 14
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uc624\uc804",
+   "value": 3
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\ube44\ub300",
+   "value": 12
+  },
+  {
+   "source": "\uac15\ud654",
+   "target": "\uadfc\ub825",
+   "value": 16
+  },
+  {
+   "source": "\uc7a5\uc724\uc815",
+   "target": "\ubaa8\uc74c",
+   "value": 5
+  },
+  {
+   "source": "\uc7a5\uc724\uc815",
+   "target": "\ub178\ub3d9\uc694",
+   "value": 5
+  },
+  {
+   "source": "\uc7a5\uc724\uc815",
+   "target": "\uc2dc\uac04",
+   "value": 5
+  },
+  {
+   "source": "\uc7a5\uc724\uc815",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\ub9e8\ubab8",
+   "target": "\uc18c\ud1b5",
+   "value": 6
+  },
+  {
+   "source": "\ub2d8\uacfc \ud568\uaed8",
+   "target": "\uc218\ub828",
+   "value": 3
+  },
+  {
+   "source": "\ub2d8\uacfc \ud568\uaed8",
+   "target": "\ub514\uc6cc",
+   "value": 3
+  },
+  {
+   "source": "\ub2d8\uacfc \ud568\uaed8",
+   "target": "\uac15\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\ub2d8\uacfc \ud568\uaed8",
+   "target": "\uc30d\ubc29\ud5a5",
+   "value": 3
+  },
+  {
+   "source": "\uccb4\uc9c0\ubc29",
+   "target": "\uc804\uc2e0",
+   "value": 4
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uce7c\ub85c\ub9ac",
+   "value": 4
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\ub8e8\ud2f4",
+   "value": 7
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uadfc\uc721",
+   "value": 3
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uc720\uc0b0\uc18c \uc6b4\ub3d9",
+   "value": 3
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uc720\uc0b0",
+   "value": 28
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uc62c\uc778\uc6d0",
+   "value": 18
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 16
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\uc804\uc2e0",
+   "target": "\uadfc\ub825",
+   "value": 34
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uad6d\uac00\ub300\ud45c",
+   "value": 4
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uc9d0\ubcf4",
+   "value": 3
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uc5b4\uae68",
+   "value": 3
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uc2e0\uc218\uc9c0",
+   "value": 4
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\ub8e8\ud2f4",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "\ud2b8\ub808\uc774\ub108",
+   "target": "\uc624\ub514\uc158",
+   "value": 11
+  },
+  {
+   "source": "\uccb4\ub825",
+   "target": "\uae30\ucd08",
+   "value": 4
+  },
+  {
+   "source": "\ubaa8\uc74c",
+   "target": "\ub178\ub3d9\uc694",
+   "value": 5
+  },
+  {
+   "source": "\ubaa8\uc74c",
+   "target": "\uc2dc\uac04",
+   "value": 5
+  },
+  {
+   "source": "\ubaa8\uc74c",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\uad50\uc2e4",
+   "target": "\ubb34\ub8cc",
+   "value": 3
+  },
+  {
+   "source": "\uad50\uc2e4",
+   "target": "\ubc31\uc138",
+   "value": 6
+  },
+  {
+   "source": "\ub178\ub3d9\uc694",
+   "target": "\uc2dc\uac04",
+   "value": 5
+  },
+  {
+   "source": "\ub178\ub3d9\uc694",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\uc885\ud569",
+   "value": 6
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\uc131\ub0a8\uc2dc",
+   "value": 6
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\ube44\ub300",
+   "value": 6
+  },
+  {
+   "source": "\uc7a5\uc560\uc778",
+   "target": "\ubcf5\uc9c0\uad00",
+   "value": 6
+  },
+  {
+   "source": "\uc218\ub828",
+   "target": "\ub514\uc6cc",
+   "value": 4
+  },
+  {
+   "source": "\uc218\ub828",
+   "target": "\uac15\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\uc218\ub828",
+   "target": "\uc30d\ubc29\ud5a5",
+   "value": 3
+  },
+  {
+   "source": "\ub514\uc6cc",
+   "target": "\uac15\uc0ac",
+   "value": 3
+  },
+  {
+   "source": "\ub514\uc6cc",
+   "target": "\uc30d\ubc29\ud5a5",
+   "value": 3
+  },
+  {
+   "source": "\ub3d9\ub3d9",
+   "target": "\uc5b4\ub9b0\uc774",
+   "value": 5
+  },
+  {
+   "source": "\uc885\ud569",
+   "target": "\uc131\ub0a8\uc2dc",
+   "value": 6
+  },
+  {
+   "source": "\uc885\ud569",
+   "target": "\ube44\ub300",
+   "value": 6
+  },
+  {
+   "source": "\uc885\ud569",
+   "target": "\ubcf5\uc9c0\uad00",
+   "value": 6
+  },
+  {
+   "source": "\uad6d\uac00\ub300\ud45c",
+   "target": "\uc2e0\uc218\uc9c0",
+   "value": 4
+  },
+  {
+   "source": "\uad6d\uac00\ub300\ud45c",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\uad6d\uac00\ub300\ud45c",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\uad6d\uac00\ub300\ud45c",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\uad6d\uac00\ub300\ud45c",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "\ud640\ub85c",
+   "target": "\uac15\uc544\uc9c0",
+   "value": 4
+  },
+  {
+   "source": "\ucf54\ub07c\ub9ac",
+   "target": "\uce58\ub8cc",
+   "value": 3
+  },
+  {
+   "source": "\uc720\uc0b0\uc18c \uc6b4\ub3d9",
+   "target": "\uadfc\ub825",
+   "value": 3
+  },
+  {
+   "source": "\uc624\uc804",
+   "target": "\ube44\ub300",
+   "value": 9
+  },
+  {
+   "source": "\uc624\uc804",
+   "target": "\uadfc\ub825",
+   "value": 4
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\uc62c\uc778\uc6d0",
+   "value": 35
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 33
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\ub304\uc2a4",
+   "value": 4
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\ube44\ub300",
+   "value": 9
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\uadfc\ub825",
+   "value": 53
+  },
+  {
+   "source": "\uc720\uc0b0",
+   "target": "\ud2b8\ub9ac\uac70",
+   "value": 3
+  },
+  {
+   "source": "\uc62c\uc778\uc6d0",
+   "target": "\uc5d0\uc13c\uc15c",
+   "value": 33
+  },
+  {
+   "source": "\uc62c\uc778\uc6d0",
+   "target": "\uadfc\ub825",
+   "value": 36
+  },
+  {
+   "source": "\ucee4\ud50c",
+   "target": "\uae40\uc2dc",
+   "value": 3
+  },
+  {
+   "source": "\ucee4\ud50c",
+   "target": "\uc9c0\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\uc9d0\ubcf4",
+   "target": "\uc2dc\uc544",
+   "value": 3
+  },
+  {
+   "source": "\uc9d0\ubcf4",
+   "target": "\ub3c4\uad6c",
+   "value": 3
+  },
+  {
+   "source": "\uc2dc\uac04",
+   "target": "\ud3c9\uc548",
+   "value": 5
+  },
+  {
+   "source": "\uc5d0\uc13c\uc15c",
+   "target": "\uadfc\ub825",
+   "value": 33
+  },
+  {
+   "source": "\ucd08\ubcf4",
+   "target": "\uc655\ucd08",
+   "value": 3
+  },
+  {
+   "source": "\uac15\uc0ac",
+   "target": "\uc30d\ubc29\ud5a5",
+   "value": 3
+  },
+  {
+   "source": "\uc2dc\uc544",
+   "target": "-2",
+   "value": 3
+  },
+  {
+   "source": "\uc2dc\uc544",
+   "target": "\ub3c4\uad6c",
+   "value": 4
+  },
+  {
+   "source": "\ub77c\uc778",
+   "target": "\ud5c8\ub9ac",
+   "value": 3
+  },
+  {
+   "source": "\ub304\uc2a4",
+   "target": "\uadfc\ub825",
+   "value": 4
+  },
+  {
+   "source": "\ud558\ub4dc\ucf54\uc5b4",
+   "target": "\uc6cc\ubc0d\uc5c5",
+   "value": 3
+  },
+  {
+   "source": "\uc2e0\uc218\uc9c0",
+   "target": "\ub098\uc774\ud2b8",
+   "value": 4
+  },
+  {
+   "source": "\uc2e0\uc218\uc9c0",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\uc2e0\uc218\uc9c0",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\uc2e0\uc218\uc9c0",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "\uc131\ub0a8\uc2dc",
+   "target": "\ube44\ub300",
+   "value": 6
+  },
+  {
+   "source": "\uc131\ub0a8\uc2dc",
+   "target": "\ubcf5\uc9c0\uad00",
+   "value": 6
+  },
+  {
+   "source": "\ub098\uc774\ud2b8",
+   "target": "\uc911\uae09",
+   "value": 3
+  },
+  {
+   "source": "\ub098\uc774\ud2b8",
+   "target": "\ub9ac\ub4ec",
+   "value": 4
+  },
+  {
+   "source": "\ub098\uc774\ud2b8",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  },
+  {
+   "source": "\uc77c\uc0c1",
+   "target": "\ucf54\ub85c\ub098",
+   "value": 3
+  },
+  {
+   "source": "\uae40\uc2dc",
+   "target": "\uc9c0\uc5f0",
+   "value": 3
+  },
+  {
+   "source": "\ube44\ub300",
+   "target": "\uae30\ucd08",
+   "value": 7
+  },
+  {
+   "source": "\ube44\ub300",
+   "target": "\ubcf5\uc9c0\uad00",
+   "value": 6
+  },
+  {
+   "source": "\ube44\ub300",
+   "target": "\ubc38\ub7f0\uc2a4",
+   "value": 9
+  },
+  {
+   "source": "\ube44\ub300",
+   "target": "\uadfc\ub825",
+   "value": 21
+  },
+  {
+   "source": "\uc911\uae09",
+   "target": "\ub9ac\ub4ec",
+   "value": 3
+  },
+  {
+   "source": "\uc911\uae09",
+   "target": "\uc2dc\uc98c",
+   "value": 3
+  },
+  {
+   "source": "\uae30\ucd08",
+   "target": "\uadfc\ub825",
+   "value": 7
+  },
+  {
+   "source": "\ub9ac\ub4ec",
+   "target": "\uc2dc\uc98c",
+   "value": 4
+  }
+ ],
+ "nodes": [
+  {
+   "group": 0,
+   "id": "\uce35\uac04\uc18c\uc74c"
+  },
+  {
+   "group": 0,
+   "id": "\uaca9\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\ube7c\uae30"
+  },
+  {
+   "group": 0,
+   "id": "\ub85c\uadf8"
+  },
+  {
+   "group": 0,
+   "id": "\uc5d0\uc5b4\ub85c\ube45"
+  },
+  {
+   "group": 0,
+   "id": "\uc6e8\uc774"
+  },
+  {
+   "group": 0,
+   "id": "-4"
+  },
+  {
+   "group": 0,
+   "id": "\ub2e4\uc774\uc5b4\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ud558\ub8e8"
+  },
+  {
+   "group": 0,
+   "id": "\uc774\uc815\ud604"
+  },
+  {
+   "group": 0,
+   "id": "\uc790\uae30"
+  },
+  {
+   "group": 0,
+   "id": "\ud1b5\uc99d"
+  },
+  {
+   "group": 0,
+   "id": "\ube0c\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\uad00\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\uc9c0\ubc29"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\ud6c4"
+  },
+  {
+   "group": 0,
+   "id": "\ubca8\ub77c"
+  },
+  {
+   "group": 0,
+   "id": "\uc694\uac00"
+  },
+  {
+   "group": 0,
+   "id": "\ub9b0\uc9c0"
+  },
+  {
+   "group": 0,
+   "id": "\uac74\uac15"
+  },
+  {
+   "group": 0,
+   "id": "\uc0c1\uccb4"
+  },
+  {
+   "group": 0,
+   "id": "\ub9e8\uc190"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ucffc\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\ud558\uccb4"
+  },
+  {
+   "group": 0,
+   "id": "\ubc43\uc0b4"
+  },
+  {
+   "group": 0,
+   "id": "\ub300\uba74"
+  },
+  {
+   "group": 0,
+   "id": "\uad50\uc815"
+  },
+  {
+   "group": 0,
+   "id": "19"
+  },
+  {
+   "group": 0,
+   "id": "\uc9c0\uc6d0\uc790"
+  },
+  {
+   "group": 0,
+   "id": "\ud544\uc694"
+  },
+  {
+   "group": 0,
+   "id": "\ud0a4\uce5c"
+  },
+  {
+   "group": 0,
+   "id": "\uc0ac\uc774\ub4dc"
+  },
+  {
+   "group": 0,
+   "id": "\uace8\ubc18"
+  },
+  {
+   "group": 0,
+   "id": "TV"
+  },
+  {
+   "group": 0,
+   "id": "\uc790\uac00"
+  },
+  {
+   "group": 0,
+   "id": "\ud5ec\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\ub3c4\uc218"
+  },
+  {
+   "group": 0,
+   "id": "\uc790\uc138"
+  },
+  {
+   "group": 0,
+   "id": "\uadf9\ubcf5"
+  },
+  {
+   "group": 0,
+   "id": "\ubaa8\ub2dd"
+  },
+  {
+   "group": 0,
+   "id": "\uc2a4\ud2b8\ub808\uce6d"
+  },
+  {
+   "group": 0,
+   "id": "\uc8fc\ucc28"
+  },
+  {
+   "group": 0,
+   "id": "\ub808\uc774\uc988"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\uad6c"
+  },
+  {
+   "group": 0,
+   "id": "\ucf54\uc5b4"
+  },
+  {
+   "group": 0,
+   "id": "\ub304\uc2a4\uace1"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dd\ub2e8"
+  },
+  {
+   "group": 0,
+   "id": "\uccb4\uc870"
+  },
+  {
+   "group": 0,
+   "id": "10\ubd84"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\uc774\ube0c"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf5\uadfc"
+  },
+  {
+   "group": 0,
+   "id": "\uac15\ud654"
+  },
+  {
+   "group": 0,
+   "id": "\uc7a5\uc724\uc815"
+  },
+  {
+   "group": 0,
+   "id": "\ub9e8\ubab8"
+  },
+  {
+   "group": 0,
+   "id": "\uc628\ub77c\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\ucd08\ubcf4\uc790"
+  },
+  {
+   "group": 0,
+   "id": "\uc720\uc5f0\uc131"
+  },
+  {
+   "group": 0,
+   "id": "\ub2d8\uacfc \ud568\uaed8"
+  },
+  {
+   "group": 0,
+   "id": "\uccb4\uc9c0\ubc29"
+  },
+  {
+   "group": 1,
+   "id": "\uc804\uc2e0"
+  },
+  {
+   "group": 0,
+   "id": "\ub3d9\uc791"
+  },
+  {
+   "group": 0,
+   "id": "\uce7c\ub85c\ub9ac"
+  },
+  {
+   "group": 1,
+   "id": "\ub8e8\ud2f4"
+  },
+  {
+   "group": 0,
+   "id": "\ud2b8\ub808\uc774\ub108"
+  },
+  {
+   "group": 0,
+   "id": "\uccb4\ub825"
+  },
+  {
+   "group": 0,
+   "id": "\uad50\uc2e4"
+  },
+  {
+   "group": 0,
+   "id": "\ubaa8\uc74c"
+  },
+  {
+   "group": 0,
+   "id": "\ub178\ub3d9\uc694"
+  },
+  {
+   "group": 0,
+   "id": "\uc7a5\uc560\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\uc218\ub828"
+  },
+  {
+   "group": 0,
+   "id": "\ub514\uc6cc"
+  },
+  {
+   "group": 0,
+   "id": "\ub3d9\ub3d9"
+  },
+  {
+   "group": 0,
+   "id": "\uc885\ud569"
+  },
+  {
+   "group": 0,
+   "id": "\uc18c\ud1b5"
+  },
+  {
+   "group": 0,
+   "id": "\uad6d\uac00\ub300\ud45c"
+  },
+  {
+   "group": 0,
+   "id": "\uadfc\uc721"
+  },
+  {
+   "group": 0,
+   "id": "\ucf54\ub07c\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\ud640\ub85c"
+  },
+  {
+   "group": 0,
+   "id": "\uc720\uc0b0\uc18c \uc6b4\ub3d9"
+  },
+  {
+   "group": 0,
+   "id": "\uac15\uc544\uc9c0"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\uc804"
+  },
+  {
+   "group": 0,
+   "id": "\ubb34\ub8cc"
+  },
+  {
+   "group": 0,
+   "id": "\uc720\uc2b9"
+  },
+  {
+   "group": 1,
+   "id": "\uc720\uc0b0"
+  },
+  {
+   "group": 0,
+   "id": "\uc62c\uc778\uc6d0"
+  },
+  {
+   "group": 0,
+   "id": "\ucee4\ud50c"
+  },
+  {
+   "group": 0,
+   "id": "\uc9d0\ubcf4"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\uac04"
+  },
+  {
+   "group": 0,
+   "id": "\uc7a5\ube44"
+  },
+  {
+   "group": 0,
+   "id": "\uc5b4\uae68"
+  },
+  {
+   "group": 0,
+   "id": "\uc5d0\uc13c\uc15c"
+  },
+  {
+   "group": 0,
+   "id": "\uac15\uc0ac"
+  },
+  {
+   "group": 0,
+   "id": "\uc624\ub514\uc158"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf5\ubd80"
+  },
+  {
+   "group": 0,
+   "id": "\ucd08\ubcf4"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\uc544"
+  },
+  {
+   "group": 0,
+   "id": "\ub77c\uc778"
+  },
+  {
+   "group": 0,
+   "id": "\uc2e0\uc218\uc9c0"
+  },
+  {
+   "group": 0,
+   "id": "\ub304\uc2a4"
+  },
+  {
+   "group": 0,
+   "id": "\ud558\ub4dc\ucf54\uc5b4"
+  },
+  {
+   "group": 0,
+   "id": "\uc655\ucd08"
+  },
+  {
+   "group": 0,
+   "id": "\uce58\ub8cc"
+  },
+  {
+   "group": 0,
+   "id": "\ud5c8\ub9ac"
+  },
+  {
+   "group": 0,
+   "id": "\uc131\ub0a8\uc2dc"
+  },
+  {
+   "group": 0,
+   "id": "\ub098\uc774\ud2b8"
+  },
+  {
+   "group": 0,
+   "id": "\uc77c\uc0c1"
+  },
+  {
+   "group": 0,
+   "id": "\uae40\uc2dc"
+  },
+  {
+   "group": 1,
+   "id": "\ube44\ub300"
+  },
+  {
+   "group": 0,
+   "id": "\ud3c9\uc548"
+  },
+  {
+   "group": 0,
+   "id": "-2"
+  },
+  {
+   "group": 0,
+   "id": "\ub3c4\uad6c"
+  },
+  {
+   "group": 0,
+   "id": "\ucf54\ub85c\ub098"
+  },
+  {
+   "group": 0,
+   "id": "\uc911\uae09"
+  },
+  {
+   "group": 0,
+   "id": "\uc6cc\ubc0d\uc5c5"
+  },
+  {
+   "group": 0,
+   "id": "\uae30\ucd08"
+  },
+  {
+   "group": 0,
+   "id": "\uc5b4\ub9b0\uc774"
+  },
+  {
+   "group": 0,
+   "id": "\ubcf5\uc9c0\uad00"
+  },
+  {
+   "group": 0,
+   "id": "\uc5f0\uc18c"
+  },
+  {
+   "group": 0,
+   "id": "\uc30d\ubc29\ud5a5"
+  },
+  {
+   "group": 0,
+   "id": "\ub9ac\ub4ec"
+  },
+  {
+   "group": 0,
+   "id": "\uc9c0\uc5f0"
+  },
+  {
+   "group": 0,
+   "id": "\uc2dc\uc98c"
+  },
+  {
+   "group": 0,
+   "id": "\ubc38\ub7f0\uc2a4"
+  },
+  {
+   "group": 1,
+   "id": "\uadfc\ub825"
+  },
+  {
+   "group": 0,
+   "id": "\ud2b8\ub9ac\uac70"
+  },
+  {
+   "group": 0,
+   "id": "\ubc31\uc138"
+  }
+ ]
+}
