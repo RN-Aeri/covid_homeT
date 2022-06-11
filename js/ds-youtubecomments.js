@@ -17,7 +17,7 @@ var tooltip = d3.select("body")
   //.style("opacity", 100);
   
 
-d3.json("data/youtube_comments-graph.json", function(error, graph) {
+d3.json("data/youtube_comment-graph.json", function(error, graph) {
   if (error) throw error;
  	const svg = d3.select('svg'),
         width = +svg.attr('width'),
